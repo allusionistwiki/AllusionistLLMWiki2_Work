@@ -1,3 +1,0 @@
-Initial commit: work repository (v5.2 三層分離の作業派生物)
-
-vault-ref: 3afd5eb
