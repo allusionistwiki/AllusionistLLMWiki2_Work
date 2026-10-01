@@ -1,0 +1,165 @@
+episode: ch0084
+created: '2026-10-01'
+status: pending_merge
+entities:
+- canonical_target: '[[E_item_アキラ]]'
+  entity_type: item
+  aspects:
+    visual:
+      observations:
+      - event_ref: E_ch0084_アキラ_observes_トリシューラの寝顔_p3076
+        quote: 朝起きたら、目の前にトリシューラの寝顔があった。 艶のない黒を基調とした金属製の肌。 所々に走る銀のラインは、彼女が機械の身体であるということを強調している。
+        locator: {}
+        spoiler_after: ch0084
+    speech:
+      observations:
+      - event_ref: E_ch0084_アキラ_thinks_トリシューラの侵入_p3077
+        quote: 万全のセキュリティで守られたこの場所には、俺とトリシューラ以外誰も侵入する事は出来ない。「――つまり、トリシューラが自分の意思で入ってきたってことだよな」
+        locator: {}
+        spoiler_after: ch0084
+    action:
+      observations:
+      - event_ref: E_ch0084_アキラ_other_トリシューラの髪と頬_p3077
+        quote: 思考より先に、左手が動いた。 細やかな赤い髪。寝ている際に乱れないようにまとめられている一房にそっと触れて、撫でていく。 寝ている相手に対してしていい行為でないことは百も承知だが、左手の動きは止まってくれない。そのまま頬に指先が伸びていき―
+        locator: {}
+        spoiler_after: ch0084
+      - event_ref: E_ch0084_アキラ_other_人工乳房_p3092
+        quote: 先日、多腕系の格闘動作制御プログラムを構築しているインドアユーザーの一人が『人工乳房を拡張することによる戦術について』というトピックを立ち上げた時は正気かと思ったが、割と真面目な内容だったので今では俺も暗器としては意外と有りかもしれない、と思い始めている。
+          つまり思わず購入してしまったのは、サイバーカラテの研鑚のためであって変な事に使うつもりではない。
+        locator: {}
+        spoiler_after: ch0084
+  first_appearance_candidate: true
+- canonical_target: '[[E_char_トリシューラ]]'
+  entity_type: character
+  aspects:
+    action:
+      observations:
+      - event_ref: E_ch0084_トリシューラ_has_property_自動的な振る舞い_p3076
+        quote: 寝ている間は質感を再現するテクスチャの呪術が働かないらしい。 安らかな寝息を立てる――という自動的な振る舞いを適度な乱数を加えてそれらしく実行するトリシューラは、寝ている間であっても人らしくあろうとしているようだった。
+        locator: {}
+        spoiler_after: ch0084
+      - event_ref: E_ch0084_トリシューラ_other_アキラの左腕_p3083
+        quote: がぶり、と左腕に齧り付かれた。 義肢との接合部に歯を当てて、（いってきますのちゅー） などと言っているが、どこまで本気なのやら。 意外に強く噛み付かれている。
+        locator: {}
+        spoiler_after: ch0084
+    speech:
+      observations:
+      - event_ref: E_ch0084_トリシューラ_other_アキラ_p3078
+        quote: 「は？ ペットの分際で何勘違いしてるの？ 駄犬のくせに機械に欲情するとかもう最低最悪の変態だね！ このお猿さん！」
+        locator: {}
+        spoiler_after: ch0084
+      - event_ref: E_ch0084_トリシューラ_other_アキラ_2_p3078
+        quote: そこで、トリシューラが目を開いた。 緑色の瞳がこちらを見て、頬に触れている左手を見て、事態を理解していく。 ややあって、絶叫が迸った。「いやあああああすっぴん見られたあああああ」
+        locator: {}
+        spoiler_after: ch0084
+      - event_ref: E_ch0084_トリシューラ_other_精神安定の意図_p3079
+        quote: トリシューラは振る舞いによって俺の精神を安定させようとする。それが演技だと理解できてはいても、そう意図して行動をしてくれたという事実は単純な人間の脳に安らぎを与えるからだ。
+        locator: {}
+        spoiler_after: ch0084
+      - event_ref: E_ch0084_トリシューラ_other_マーキング_p3080
+        quote: 「んー、マーキングみたいな？ 私のものだーっていう匂い付け。ほら、襲撃来るとしたら今日かなーって思ったから」
+        locator: {}
+        spoiler_after: ch0084
+      - event_ref: E_ch0084_トリシューラ_other_グレンデルヒ_p3081
+        quote: 「気をつけてね。【変異の三手】の最後の副長、そしてリーダーのグレンデルヒは、多分これまで以上の強敵だから」
+        locator: {}
+        spoiler_after: ch0084
+    visual:
+      observations:
+      - event_ref: E_ch0084_トリシューラ_wears_魔女の衣装_p3082
+        quote: 色彩はいつも通りの黒だが、鍔の広い三角帽子に金の縁取りがされたローブ。 魔女らしいな、となんとなく思ったが、どうも前世の常識っぽい――のだが、この世界でもこれは典型的な魔女のイメージらしい。「私が流行らせた！」
+        locator: {}
+        spoiler_after: ch0084
+  first_appearance_candidate: true
+- canonical_target: '[[E_org_リールエルバ]]'
+  entity_type: organization
+  aspects:
+    action:
+      observations:
+      - event_ref: E_ch0084_リールエルバ_other_メール_p3084
+        quote: そのメールを見た瞬間、即削除しようと思ったが、差出人を見て思い留まった。 リールエルバからのものだったからだ。 が、内容がひどすぎた。
+        locator: {}
+        spoiler_after: ch0084
+    visual:
+      observations:
+      - event_ref: E_ch0084_リールエルバ_appears_立体幻像_p3085
+        quote: が、添付された立体幻像のリールエルバの姿態はぞっとするほど美しかった。 魔性の美貌、均整のとれた身体。
+        locator: {}
+        spoiler_after: ch0084
+    speech:
+      observations:
+      - event_ref: E_ch0084_リールエルバ_other_言震リスク_p3086
+        quote: （ありとあらゆる言語が雑多に混淆された自然発生の言語、ガロアンディアン語は言語秩序を安定させている太陰――イルディアンサの管理下に置かれていない『混沌』の言語よ。不安定なそれが放置されているのはトリシューラの国策であり武器でもあるけれど、同時に巨大な爆薬を抱え込んでいるに等しい）
+        locator: {}
+        spoiler_after: ch0084
+      - event_ref: E_ch0084_リールエルバ_reveals_グレンデルヒの行動_p3087
+        quote: （そのレベルの改竄ができる言語魔術師なんて、それこそ上級言語魔術師くらいだけど――英雄たるグレンデルヒは数少ないその一人。そしてついさっき、彼が太陰のデータベースにアクセスして日本語の言語情報を参照していた事が明らかになったの。気をつけて）
+        locator: {}
+        spoiler_after: ch0084
+      - event_ref: E_ch0084_リールエルバ_asks_アキラ_p3088
+        quote: （ふうん。そう。それもそうね――ねえアキラ、やっぱり私の下僕にならない？） （いえ。あくまで俺は、トリシューラとコルセスカの使い魔ですから）
+        locator: {}
+        spoiler_after: ch0084
+      - event_ref: E_ch0084_リールエルバ_reveals_ラクルラール派の動き_p3088
+        quote: （第六位全権代理、人形師ラクルラールの弟子にして被造物――紅ンタマゼ、紫のアレッテ・イヴニルと砂茶のミヒトネッセが星見の塔を出てアルセミットに入国したわ。その後の足取りは不明だけど、多分エルネトモランに向かったはず。そのままこっちに干渉してくるか、そっちに干渉してくるかは不明。気をつけて）
+        locator: {}
+        spoiler_after: ch0084
+  first_appearance_candidate: true
+- canonical_target: '[[E_term_ガロアンディアン]]'
+  entity_type: terminology
+  aspects:
+    visual:
+      observations:
+      - event_ref: E_ch0084_ガロアンディアン_is_located_花街_p3090
+        quote: 取り仕切っていた犯罪組織は一切の慈悲無く物理的に駆逐され、夥しい量の血が流れた結果として、そこには一定の平和が訪れていた。
+        locator: {}
+        spoiler_after: ch0084
+  first_appearance_candidate: true
+- canonical_target: '[[E_term_公営娼館]]'
+  entity_type: terminology
+  aspects:
+    symbolic:
+      observations:
+      - event_ref: E_ch0084_公営娼館_functions_as_産業_p3091
+        quote: あらゆる原始的な欲望が向かう先であるポルノスターは一種の偶像であり、呪力の発電機であるとも言えた。 この世界では性的な事柄からも呪力を引き出せるので、正しい呪術の知識を持って取り組めば公娼は極めて安定した主要な産業にもなり得るのだ。
+        locator: {}
+        spoiler_after: ch0084
+  first_appearance_candidate: true
+- canonical_target: '[[E_term_探索者の城]]'
+  entity_type: terminology
+  aspects:
+    visual:
+      observations:
+      - event_ref: E_ch0084_探索者の城_is_located_ガロアンディアン_p3093
+        quote: 探索者――それもとある集団の拠点としてトリシューラが用意した、ガロアンディアンの内部に存在する『城』。 事実上の治外法権であるそこは、『自由』を己の信条とする者たちが集う宿であり食堂であり、更には地上にある探索者協会の支部の一つでもある。
+        locator: {}
+        spoiler_after: ch0084
+  first_appearance_candidate: true
+- canonical_target: '[[E_char_ゼド]]'
+  entity_type: character
+  aspects:
+    action:
+      observations:
+      - event_ref: E_ch0084_ゼド_other_魔導書_p3094
+        quote: 男は、卓上で静かに果実酒を飲んでいる。そして、深く椅子に背を預けて、大きな魔導書を片手で支えながら読み耽っていた。 集中した表情。 眉間に皺が寄っているのは、呪文を意識に焼き付けているからだろう。
+        locator: {}
+        spoiler_after: ch0084
+    speech:
+      observations:
+      - event_ref: E_ch0084_ゼド_says_俺の王は俺だけだ_p3095
+        quote: 「その時はその時さ。俺はお前みたいに何から何まで管理されんのは勘弁願いたいんでね。自由に気ままに束縛されずに――俺の王は俺だけだ。だからこそ、ガロアンディアンの中にあってさえ、『ここ』だけは俺の王国だ」
+        locator: {}
+        spoiler_after: ch0084
+    visual:
+      observations:
+      - event_ref: E_ch0084_ゼド_wears_テンガロンハット_p3095
+        quote: 黒いテンガロンハットはトリシューラが面白がって贈った品だが、当人もいたく気に入ったらしく今も身につけている。空間拡張の呪術を用いることで実際に十ガロン――三十八リットルの水が収まるらしい。
+        locator: {}
+        spoiler_after: ch0084
+    name:
+      observations:
+      - event_ref: E_ch0084_ゼド_names_盗賊王_p3096
+        quote: 探索者にして銃士、更には四英雄きってのならず者と呼ばれた男。 無法者である彼は、自ら定めた法秩序に従って動く。
+        locator: {}
+        spoiler_after: ch0084
+  first_appearance_candidate: true

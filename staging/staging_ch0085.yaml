@@ -1,0 +1,466 @@
+episode: ch0085
+created: '2026-10-01'
+status: pending_merge
+entities:
+- canonical_target: '[[E_char_ゼド]]'
+  entity_type: character
+  aspects:
+    visual:
+      observations:
+      - event_ref: E_ch0085_ゼド_has_property_好物_p3097
+        quote: パエリアとも炒飯ともつかないこの料理はこの男の好物である。
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_ゼド_is_located_黒百合館_p3097
+        quote: 娼館で宿で食堂で探索者協会の支部で――という雑多な施設が入り交じった建物は、事実上ゼドの根城だ。
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_ゼド_has_property_音楽_p3098
+        quote: 綺麗に整えられた空間に、ゼドの趣味らしい鍵盤を中心とした軽やかな音楽が流れている。ラグタイムっぽい、と言えなくもないような雰囲気だ。
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_ゼド_has_property_食事マナー_p3102
+        quote: 薄く笑むゼドは、口元をソースで汚していた。何故こいつは微妙に食べ方が汚いのだろう。見た感じ、丁寧に食事を進めているのだが。
+        locator: {}
+        spoiler_after: ch0085
+    speech:
+      observations:
+      - event_ref: E_ch0085_ゼド_says_ニセアキラ_p3097
+        quote: 「『ニセアキラ』の話を知っているか」　そう切り出したゼドが色の付いた米を頬に付けていたので指摘すると、真顔で摘んで口に入れた。
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_ゼド_reveals_ニセアキラの噂_p3099
+        quote: 「それをやったのが、『アキラ』だという噂が流れている。当然お前はその時道場にいるはずだ」
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_ゼド_says_スモーレスラー_p3101
+        quote: 「それだ。前に聞いたそのスモーレスラーとやらなら、こんな惨状を演出することも可能なんじゃないのか」
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_ゼド_says_外世界人_p3102
+        quote: 「だが絶対は無い。お前がサイバーカラテを持ち込んでこの世界に普及させたようにな。アレは多世界連合からの厳重な警告を喰らったにも関わらず、既にこの世界の文化に組み込まれたとして事実上黙認されているだろう。そう言うことが、今回も起こっていないと言い切れるか？」
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_ゼド_reveals_地下の組織_p3103
+        quote: 「どうも最近、『地下』を中心に動いている組織があるらしい」
+        locator: {}
+        spoiler_after: ch0085
+    action:
+      observations:
+      - event_ref: E_ch0085_ゼド_defeats_第九魔将ピッチャールー_p3098
+        quote: 第九魔将ピッチャールーとの追撃戦の様子を仲間の一人が念写で撮影していたため、動画をネットで見ることができる。
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_ゼド_has_property_戦術_p3099
+        quote: 魔将の攻撃パターンを読み切って『こうすればこうなる』という戦術を瞬時に構築、相手の行動を任意の方向に誘導し、更に迷宮の罠を逆に活用した『ハメ手』は探索者の間で語り草になっている。
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_ゼド_helps_中毒者_p3105
+        quote: 「まだ生きてるんだろう？　適当な理由――そうだな、薬欲しさに脱走したことにでもして中央通り辺りに放置しとけ。巡回してるドローンが自動的にマニュアルに従って公社の呪術医院に放り込むはずだ。そっちの方が幾らかマシだろう」
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_ゼド_has_property_変装術_p3132
+        quote: 彼は変装術にも長けていて、特殊な化粧やら呪術の道具やらであっという間に女性らしくなってしまった。
+        locator: {}
+        spoiler_after: ch0085
+    relationship:
+      observations:
+      - event_ref: E_ch0085_ゼド_has_property_四英雄としての特性_p3098
+        quote: ゼドは四英雄で最も探索者らしい探索者だ。戦いよりも遺跡などの探索に向いており、またそれさえ出来れば魔将を討伐したりといった主たる攻略には興味が無い、という性格である。
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_org_三報会]]'
+  entity_type: organization
+  aspects:
+    action:
+      observations:
+      - event_ref: E_ch0085_三報会_other_拠点_p3099
+        quote: 【三報会】が完全に潰された。文字通り、物理的に拠点ごと叩き潰されたって話だ。つい先刻入った知らせだがな
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_char_ちびシューラ]]'
+  entity_type: character
+  aspects:
+    speech:
+      observations:
+      - event_ref: E_ch0085_ちびシューラ_says_記録なし_p3100
+        quote: （え？　そんな記録、入ってきてないよ？　おかしいな、ちょっと調べてみる）
+        locator: {}
+        spoiler_after: ch0085
+    action:
+      observations:
+      - event_ref: E_ch0085_ちびシューラ_disappears_防壁迷路_p3141
+        quote: ノイズ交じりの音声と共に、ちびシューラが無数の壁に取り囲まれて消えていく。何度呼びかけても一切の応答が無い。
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_char_ニセアキラ]]'
+  entity_type: character
+  aspects:
+    action:
+      observations:
+      - event_ref: E_ch0085_ニセアキラ_kills_報復のティム_p3100
+        quote: 三報会に残った最後の頭目、【報復】のティムが幹部の仇討ちに手勢を引き連れて動いた。つい１０，８００秒前のことだ
+        locator: {}
+        spoiler_after: ch0085
+    visual:
+      observations:
+      - event_ref: E_ch0085_ニセアキラ_wounds_死体_p3100
+        quote: 挽肉――というよりも、それが肉なのかどうかすら事前に教えられていなければ分からないレベルだ。原形を留めていないどころではない。
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_org_変異の三手]]'
+  entity_type: organization
+  aspects:
+    visual:
+      observations:
+      - event_ref: E_ch0085_変異の三手_has_property_紋章_p3103
+        quote: 連中は互いを識別するための符号として三本の手を持った三角錐の紋章を身体のどこかに、あるいは持ち物に刻んでいる
+        locator: {}
+        spoiler_after: ch0085
+    speech:
+      observations:
+      - event_ref: E_ch0085_変異の三手_other_女神復活_p3115
+        quote: 「要するに、【変異の三手】はその生と死を司る地母神を復活させようとしているとか、そんな感じか」
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_item_霊薬]]'
+  entity_type: item
+  aspects:
+    visual:
+      observations:
+      - event_ref: E_ch0085_霊薬_functions_as_ドラッグ_p3104
+        quote: カプセル型の薬だった。三角錐の形で、脇に日本語の説明文が記されている。洒落にならない効用――そして、圧倒的な安価さだった。
+        locator: {}
+        spoiler_after: ch0085
+    speech:
+      observations:
+      - event_ref: E_ch0085_霊薬_has_property_効果_p3106
+        quote: 極めて強力な呪力が検知された。依存性が高く、特定の夢を見せることができるらしい。得られた証言はこうだ。『森の奥でママが待ってる』
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_char_トリシューラ]]'
+  entity_type: character
+  aspects:
+    relationship:
+      observations:
+      - event_ref: E_ch0085_トリシューラ_has_property_医療システム_p3105
+        quote: ガロアンディアンの福祉は国家への奉仕義務と一体だが、同時にその医療技術の証明とトリシューラの呪術医としての能力への信頼を集めるための行為でもある。
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_term_死人の娼館]]'
+  entity_type: terminology
+  aspects:
+    speech:
+      observations:
+      - event_ref: E_ch0085_死人の娼館_is_located_噂_p3106
+        quote: 「それからもう一つ。以前、『死人の娼館』の噂について話したな？」「ああ。それも確か、【変異の三手】が関わってる可能性があるって話だったな」
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_term_エーラマーン]]'
+  entity_type: terminology
+  aspects:
+    speech:
+      observations:
+      - event_ref: E_ch0085_エーラマーン_has_property_情報源_p3107
+        quote: エーラマーンというのは、確か噂の天使とかいう伝説上の存在だ。
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_char_ステュクス]]'
+  entity_type: character
+  aspects:
+    speech:
+      observations:
+      - event_ref: E_ch0085_ステュクス_has_property_特性_p3108
+        quote: 「【ステュクス】は基本的に『年上の女性』として姉あるいは母のように振る舞い、動画を体験する視聴者に直接快楽を与える。時に自分の事を『ママ』と言い、相手を甘やかすかのような言動が特徴的だという話だ」
+        locator: {}
+        spoiler_after: ch0085
+    name:
+      observations:
+      - event_ref: E_ch0085_ステュクス_other_ポルノスター_p3108
+        quote: 世界的に有名な、本名及び顔が不明のポルノスター、【ステュクス】がそうではないかと言われているのだ。
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_term_性欲]]'
+  entity_type: terminology
+  aspects:
+    speech:
+      observations:
+      - event_ref: E_ch0085_性欲_functions_as_呪力源_p3108
+        quote: ポルノスターってのは一種の偶像にもなり得る。つまり、信仰を――原始的な性欲のエネルギーを一身に集めるその対象は、極まれば凄まじい呪力を宿しうるということだ。
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_term_吸血鬼]]'
+  entity_type: terminology
+  aspects:
+    speech:
+      observations:
+      - event_ref: E_ch0085_吸血鬼_has_property_呪力_p3109
+        quote: 「ああ。吸血鬼がその典型だな。死への衝動を性的衝動に変換することで強い呪力を発揮する。お前のもう一人の主も似たようなことができるはずだ」
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_term_死人の森]]'
+  entity_type: terminology
+  aspects:
+    speech:
+      observations:
+      - event_ref: E_ch0085_死人の森_has_property_伝承_p3109
+        quote: 【死人の森】の伝承には、どうも性的な含みを持たせたものが多い。地母神系の祭儀に生殖に関連した伝承が見られるのは珍しいことでもないが、それにしても生と死という言葉が頻出し過ぎている。
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_term_キュトス]]'
+  entity_type: terminology
+  aspects:
+    speech:
+      observations:
+      - event_ref: E_ch0085_キュトス_other_紀神_p3110
+        quote: 「キュトスというのはそもそもあらゆる地母神像が神話として揺らいだ後に立ち現れる神的イメージ、つまりは『紀神』だ」
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_キュトス_has_property_七十一姉妹_p3113
+        quote: 散逸した七十一の地母神伝承、すなわちキュトスの姉妹たちはその混沌の成れの果てだ。
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_term_槍神]]'
+  entity_type: terminology
+  aspects:
+    speech:
+      observations:
+      - event_ref: E_ch0085_槍神_other_父なる神_p3110
+        quote: 「まず、地上で信仰されている槍神というのは父なる神であり、天空神だ。天上の至高存在であり、普遍的な一者。そしてあらゆる異獣を平定する武神でもある」
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_char_第五位の姉妹]]'
+  entity_type: character
+  aspects:
+    action:
+      observations:
+      - event_ref: E_ch0085_第五位の姉妹_disappears_存在抹消_p3113
+        quote: 最も有力な姉妹の一人であった第五位の『姉』が存在抹消に追い込まれたらしい
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_char_死人の森の女王]]'
+  entity_type: character
+  aspects:
+    speech:
+      observations:
+      - event_ref: E_ch0085_死人の森の女王_other_失われた地母神_p3114
+        quote: 「【死人の森の女王】と呼ばれる存在は、俺は失われた地母神そのものか、その巫女ではないかと見ている。性的な仄めかしの数々は、神聖娼婦の類が存在したことを示唆している」
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_char_ディスペータ]]'
+  entity_type: character
+  aspects:
+    name:
+      observations:
+      - event_ref: E_ch0085_ディスペータ_other_第五位の姉妹_p3116
+        quote: 「――ディスペータ、だ」　どうしてだろう。　ゼドが口にした、意味すらわからない音の羅列。　それが、ひどく寒々しく心臓を鷲掴みにするような気がした。
+        locator: {}
+        spoiler_after: ch0085
+    speech:
+      observations:
+      - event_ref: E_ch0085_ディスペータ_has_property_記憶の欠落_p3117
+        quote: 誰もディスペータお姉様の詳細な顔を思い出せないの。直弟子であったリールエルバですら、詳しく思い出そうとすると記憶に靄がかかったようになるって言ってた
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_char_街娼]]'
+  entity_type: character
+  aspects:
+    speech:
+      observations:
+      - event_ref: E_ch0085_街娼_asks_アキラ_p3117
+        quote: 「あきらー」「ああ、うん。俺がアキラだけど、何か用事でも？」「おきゃくー？」「うーん、ちょっと今は用事があるから無理だ。悪いな」
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_term_夜の民]]'
+  entity_type: terminology
+  aspects:
+    visual:
+      observations:
+      - event_ref: E_ch0085_夜の民_other_青い鳥_p3118
+        quote: ペリュトン　呪術的な事情により姿を隠しており、その実体は不定で影のような存在だとか。
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_relation_コルセスカ]]'
+  entity_type: relationship
+  aspects:
+    action:
+      observations:
+      - event_ref: E_ch0085_コルセスカ_appears_アキラ_p3121
+        quote: 冷ややかな声と共に後頭部を叩かれた。　振り返ると、絶対零度の視線。やめろ、凍る凍る死ぬ。　青く輝く氷の瞳で顔の右半分を覆った異相の少女。　異形の美しさを誇る、冬の魔女コルセスカがこちらを睨み付けていた。
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_コルセスカ_uses_催眠術_p3130
+        quote: 義眼の輝きに魅せられた薬の売人は、まるで本人が薬物漬けになったかのような足取りで俺たちを案内する。
+        locator: {}
+        spoiler_after: ch0085
+    speech:
+      observations:
+      - event_ref: E_ch0085_コルセスカ_threatens_アキラ_p3122
+        quote: 「今の鍵だけでは不十分ですね。もっと厳密な、生理的なレベルでの管理が必要です。今まではやり過ぎかと思って容赦していましたが、視界のフィルタリングも実行しましょう。それか、一定の欲望を抱いた場合に相貌失認に陥らせる呪術というのもありでしょうか――？」
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_コルセスカ_has_property_狂気_p3123
+        quote: 「サリアはアルマに預けてきたので暫くはこちらに滞在できます。あの子の狂気もたっぷり吸ってきたので、当分狂乱することも無いでしょうし」
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_コルセスカ_confesses_アキラ_p3126
+        quote: 「わかってます。貴方にとって、特別な相手ですからね。構いませんよ。私たちは似ているけど別物で、偽物で――だからこそ、こうして一緒にいられるのかもしれません」
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_コルセスカ_has_property_元ネタ_p3128
+        quote: 「一説によるとですね。私の元ネタである【冬の魔女】は【銀の森の魔女】とも言われているらしいのです。その【銀の森】、かつては【死人の森】と呼ばれていたとか、いないとか」
+        locator: {}
+        spoiler_after: ch0085
+    relationship:
+      observations:
+      - event_ref: E_ch0085_コルセスカ_has_property_ゼドとの関係_p3134
+        quote: 「この男、私たちが苦労して古代遺跡の守護者と戦っている隙にまんまと最深部に侵入して宝物を全て掠め取っていきましたからね。あれは流石に腹が立ちました。
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_term_黒百合館]]'
+  entity_type: terminology
+  aspects:
+    visual:
+      observations:
+      - event_ref: E_ch0085_黒百合館_is_located_花街_p3129
+        quote: 咲き誇る黒紫。　それを美しいととるか毒々しいととるかは人によるだろうが、俺にはその色彩が魔性を宿しているように思えた。　強烈な薫りが漂う小さな前庭の奥にある、漆黒の館。
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_黒百合館_has_property_本館_p3142
+        quote: カタカタと剥き出しの歯を打ち鳴らし、空洞の眼窩から眼球を零れ落とし、腐乱した乳房がべちゃりと床を汚していく。
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_黒百合館_has_property_客層_p3143
+        quote: 通されたその広間では、ネクロフィリアの殺人鬼やスナッフムービーの撮影者、更には度を超えた加虐嗜好の者たちが快楽の渦に沈んでいる。
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_黒百合館_has_property_死体娼婦_p3143
+        quote: 異様な空間の中、並んだ扉が次々と開いて中から全裸の女性たちが現れる。　余計な服や皮、肉すらも剥ぎ取ったありのままの姿を晒した娼婦たちが、来客を持てなすために一斉にお辞儀した。
+        locator: {}
+        spoiler_after: ch0085
+    symbolic:
+      observations:
+      - event_ref: E_ch0085_黒百合館_defines_性行為_p3144
+        quote: ここでは、死とは性的な欲求を満たすことと同義。　性行為とは、すなわち殺戮である。　それらは転倒し、一体となる。
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_char_アキラ]]'
+  entity_type: character
+  aspects:
+    action:
+      observations:
+      - event_ref: E_ch0085_アキラ_wears_女装_p3132
+        quote: 女装させられた。　ひどい。レオとかファルとかならまだ普通に少女で通用するのだが、俺がやるともう筆舌に尽くしがたい、というか目も当てられない惨状だった。
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_アキラ_activates_サイバーカラテ道場_p3145
+        quote: 息を整えながら、腰を低くして構えをとった。胸の重量とひらひらしたスカートの分を計算に入れて誤差を自動修正しつつ、サイバーカラテ道場を起動。
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_アキラ_attacks_クレナリーザ_p3145
+        quote: クレナリーザの顔を掌打で弾き飛ばして宣言して包囲を突破。　暗闇がわだかまる通路へと飛び込んだ。
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_アキラ_other_夢_p3145
+        quote: 暗転。　そして、俺は夢の中に飛び込み。　己の罪と、対面する。
+        locator: {}
+        spoiler_after: ch0085
+    speech:
+      observations:
+      - event_ref: E_ch0085_アキラ_thinks_補正_p3143
+        quote: 「まあ、補正かけるのなんてどこもやってるしな。普通普通」　詐欺だと目くじらを立てるほどのことでもない。　俺が女装しているのに比べれば、全員きちんと女性なのだし。
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_アキラ_remembers_鎧の腕_p3146
+        quote: その声を、その光景を、俺は確かに知っている。　今はもう存在しない『鎧の腕』が、血に濡れて悲鳴を上げているようだった。
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_char_クレナリーザ]]'
+  entity_type: character
+  aspects:
+    speech:
+      observations:
+      - event_ref: E_ch0085_クレナリーザ_names_黒百合館のコンセプト_p3137
+        quote: 「いいこと？　まずこの館のコンセプトは母娘と姉妹による歓待というものよ。家族関係を擬した私たちはお客さまを持てなす――家族の一員としてね。お客様は父であり息子であり兄であり弟でもある。
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_クレナリーザ_other_代理_p3140
+        quote: 「馬鹿ね、私は代理。この黒百合館の主人は『お母様』よ」
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_クレナリーザ_says_流儀_p3143
+        quote: 「当館では、貴方が死体を陵辱するのではなく、死体が貴方を陵辱いたします」
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_クレナリーザ_says_流儀_2_p3143
+        quote: 「当館では、貴方が死体を陵辱するのではなく、死体が貴方を陵辱いたします」「客を殺すのが、ここの流儀か」「それがお客様の心に秘められた、真なる願いでありますれば」
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_クレナリーザ_says_出口_p3145
+        quote: 「当館では、物事は始まりから終わりへと進むのではなく、終わりから始まりへと進むからです――貴方は、出口には、辿り着けない」
+        locator: {}
+        spoiler_after: ch0085
+    visual:
+      observations:
+      - event_ref: E_ch0085_クレナリーザ_transforms_瞳_p3141
+        quote: クレナリーザの瞳が、空洞になったかのような錯覚。　ぞっとするほどの暗闇を瞳に湛えながら、瞬き一つせずに無表情にこちらを見る少女に対して返答を迷い、ちびシューラに相談しようとする。
+        locator: {}
+        spoiler_after: ch0085
+      - event_ref: E_ch0085_クレナリーザ_transforms_顔_p3144
+        quote: クレナリーザは、にっこりと微笑んで見せた。皮が剥がれ落ち、剥き出しの表情筋が千切れて頬が落ちる。
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_char_客]]'
+  entity_type: character
+  aspects:
+    action:
+      observations:
+      - event_ref: E_ch0085_客_dies_歓喜_p3143
+        quote: 死人たちに群がられ、彼女たちへの無意味な殺戮を繰り返し、逆に返り討ちにされている特殊な嗜好の客たちは、歓喜の声を上げながら息絶えていた。
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_char_死者]]'
+  entity_type: character
+  aspects:
+    speech:
+      observations:
+      - event_ref: E_ch0085_死者_says_ママ_p3144
+        quote: 断末魔の言葉は、どうしてか決まってこうだ。「ママ！　ママ！」
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
+- canonical_target: '[[E_char_狼の死体]]'
+  entity_type: character
+  aspects:
+    visual:
+      observations:
+      - event_ref: E_ch0085_狼の死体_appears_アキラ_p3145
+        quote: 闇の彼方に、腐乱した狼の死体が立っている。　四つ脚の色は骨の白。　陥没した胴体から、血まみれの何かが迫り出してくる。
+        locator: {}
+        spoiler_after: ch0085
+  first_appearance_candidate: true
