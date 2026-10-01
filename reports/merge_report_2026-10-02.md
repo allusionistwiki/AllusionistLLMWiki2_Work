@@ -2,9 +2,9 @@
 
 - **モード**: 本実行
 - **処理エピソード数**: 83
-- **新規作成**: 24
-- **更新**: 1124
-- **スキップ**: 0
+- **新規作成**: 0
+- **更新**: 1117
+- **スキップ**: 31
 
 ## ch0001
 
@@ -35,14 +35,13 @@
 
 ## ch0002
 
-- 新規作成: 1
+- 新規作成: 0
 - 更新: 12
-- スキップ: 0
+- スキップ: 1
 
 | エンティティ | アクション | ファイル |
 |:---|:---|:---|
 | アキラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_アキラ.md` |
-| アズーリア | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_アズーリア.md` |
 | 次元移動者 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_次元移動者.md` |
 | 金鎖 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\items\E_item_金鎖.md` |
 | 松明の騎士団 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\organizations\E_org_松明の騎士団.md` |
@@ -204,16 +203,14 @@
 
 ## ch0012
 
-- 新規作成: 2
+- 新規作成: 0
 - 更新: 7
-- スキップ: 0
+- スキップ: 2
 
 | エンティティ | アクション | ファイル |
 |:---|:---|:---|
-| アキラ | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_アキラ.md` |
 | カーイン | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_カーイン.md` |
 | トリシューラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_トリシューラ.md` |
-| コルセスカ | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_コルセスカ.md` |
 | 少年 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_少年.md` |
 | トリシューラの部屋 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\items\E_item_トリシューラの部屋.md` |
 | 九姉評議会 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\organizations\E_org_九姉評議会.md` |
@@ -243,19 +240,16 @@
 
 ## ch0014
 
-- 新規作成: 2
-- 更新: 6
-- スキップ: 0
+- 新規作成: 0
+- 更新: 5
+- スキップ: 3
 
 | エンティティ | アクション | ファイル |
 |:---|:---|:---|
-| レオ | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_レオ.md` |
-| アキラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_アキラ.md` |
 | 社会構造 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_社会構造.md` |
 | ちびシューラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_ちびシューラ.md` |
 | 松明の騎士団 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\organizations\E_org_松明の騎士団.md` |
 | ティリビナ人 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_ティリビナ人.md` |
-| トリシューラ | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_トリシューラ.md` |
 | コルセスカ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_コルセスカ.md` |
 
 ## ch0015
@@ -300,9 +294,9 @@
 
 ## ch0017
 
-- 新規作成: 1
+- 新規作成: 0
 - 更新: 5
-- スキップ: 0
+- スキップ: 1
 
 | エンティティ | アクション | ファイル |
 |:---|:---|:---|
@@ -311,7 +305,6 @@
 | トリシューラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_トリシューラ.md` |
 | コルセスカ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_コルセスカ.md` |
 | 敵呪術師 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_敵呪術師.md` |
-| リーナ・ゾラ・クロウサー | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_リーナ・ゾラ・クロウサー.md` |
 
 ## ch0018
 
@@ -379,32 +372,27 @@
 
 ## ch0022
 
-- 新規作成: 1
-- 更新: 7
-- スキップ: 0
+- 新規作成: 0
+- 更新: 5
+- スキップ: 3
 
 | エンティティ | アクション | ファイル |
 |:---|:---|:---|
 | アキラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_アキラ.md` |
 | トリシューラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_トリシューラ.md` |
-| コルセスカ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_コルセスカ.md` |
 | ちびシューラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_ちびシューラ.md` |
-| カーイン | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_カーイン.md` |
 | 動画 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\items\E_item_動画.md` |
-| レオ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_レオ.md` |
 | クレアノーズ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_クレアノーズ.md` |
 
 ## ch0023
 
 - 新規作成: 0
-- 更新: 4
-- スキップ: 0
+- 更新: 2
+- スキップ: 2
 
 | エンティティ | アクション | ファイル |
 |:---|:---|:---|
 | アキラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_アキラ.md` |
-| トリシューラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_トリシューラ.md` |
-| コルセスカ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_コルセスカ.md` |
 | キロン | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_キロン.md` |
 
 ## ch0024
@@ -531,15 +519,14 @@
 
 ## ch0031
 
-- 新規作成: 1
+- 新規作成: 0
 - 更新: 8
-- スキップ: 0
+- スキップ: 1
 
 | エンティティ | アクション | ファイル |
 |:---|:---|:---|
 | ラーゼフ・ピュクシス | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_ラーゼフ・ピュクシス.md` |
 | アズーリア | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_アズーリア.md` |
-| 修道騎士 | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_修道騎士.md` |
 | きぐるみの魔女 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_きぐるみの魔女.md` |
 | 総団長 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_総団長.md` |
 | ハルベルト | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_ハルベルト.md` |
@@ -640,12 +627,11 @@
 ## ch0036
 
 - 新規作成: 0
-- 更新: 10
-- スキップ: 0
+- 更新: 9
+- スキップ: 1
 
 | エンティティ | アクション | ファイル |
 |:---|:---|:---|
-| アズーリア | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_アズーリア.md` |
 | タマ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_タマ.md` |
 | パレルノ山 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_パレルノ山.md` |
 | ミルーニャ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_ミルーニャ.md` |
@@ -802,9 +788,9 @@
 
 ## ch0044
 
-- 新規作成: 1
+- 新規作成: 0
 - 更新: 12
-- スキップ: 0
+- スキップ: 1
 
 | エンティティ | アクション | ファイル |
 |:---|:---|:---|
@@ -815,7 +801,6 @@
 | 聖女様 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_聖女様.md` |
 | ティドロソフ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\items\E_item_ティドロソフ.md` |
 | トリギス | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_トリギス.md` |
-| ラーゼフ | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_ラーゼフ.md` |
 | 邪視者 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_邪視者.md` |
 | 金鎖の庭園 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_金鎖の庭園.md` |
 | ソルダ・アーニスタ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_ソルダ・アーニスタ.md` |
@@ -917,16 +902,14 @@
 
 ## ch0049
 
-- 新規作成: 2
+- 新規作成: 0
 - 更新: 12
-- スキップ: 0
+- スキップ: 2
 
 | エンティティ | アクション | ファイル |
 |:---|:---|:---|
 | ティリビナの民 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\organizations\E_org_ティリビナの民.md` |
 | プリエステラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\motifs\E_motif_プリエステラ.md` |
-| 大人達 | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_大人達.md` |
-| 子供たち | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_子供たち.md` |
 | 抵抗勢力 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\organizations\E_org_抵抗勢力.md` |
 | 父親 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_父親.md` |
 | エクリエッテ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_エクリエッテ.md` |
@@ -1000,16 +983,15 @@
 
 ## ch0053
 
-- 新規作成: 1
+- 新規作成: 0
 - 更新: 19
-- スキップ: 0
+- スキップ: 1
 
 | エンティティ | アクション | ファイル |
 |:---|:---|:---|
 | アズーリア | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_アズーリア.md` |
 | ガルズ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_ガルズ.md` |
 | 花言葉 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_花言葉.md` |
-| サリア | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_サリア.md` |
 | 黒いアネモネ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\items\E_item_黒いアネモネ.md` |
 | ガルズとマリー | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_ガルズとマリー.md` |
 | ハルベルト | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_ハルベルト.md` |
@@ -1230,15 +1212,14 @@
 
 ## ch0062
 
-- 新規作成: 1
+- 新規作成: 0
 - 更新: 18
-- スキップ: 0
+- スキップ: 1
 
 | エンティティ | アクション | ファイル |
 |:---|:---|:---|
 | アズーリア | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_アズーリア.md` |
 | プリエステラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_プリエステラ.md` |
-| ミルーニャ | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_ミルーニャ.md` |
 | アキラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_アキラ.md` |
 | トリシューラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_トリシューラ.md` |
 | ペリグランティア製薬 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\organizations\E_org_ペリグランティア製薬.md` |
@@ -1258,9 +1239,9 @@
 
 ## ch0063
 
-- 新規作成: 3
+- 新規作成: 0
 - 更新: 29
-- スキップ: 0
+- スキップ: 3
 
 | エンティティ | アクション | ファイル |
 |:---|:---|:---|
@@ -1270,7 +1251,6 @@
 | ミルーニャ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_ミルーニャ.md` |
 | エルネトモラン | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_エルネトモラン.md` |
 | マリー | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_マリー.md` |
-| メイファーラ | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_メイファーラ.md` |
 | セリアック＝ニア | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_セリアック＝ニア.md` |
 | リールエルバ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_リールエルバ.md` |
 | 転移門 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\items\E_item_転移門.md` |
@@ -1281,9 +1261,7 @@
 | イルディアンサの耳長の民 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_イルディアンサの耳長の民.md` |
 | ウィータスティカの鰓耳の民 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_ウィータスティカの鰓耳の民.md` |
 | ジャスマリシュの天眼の民 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_ジャスマリシュの天眼の民.md` |
-| 駕籠の中の女性 | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_駕籠の中の女性.md` |
 | サイリウス・ゾラ・クロウサー | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_サイリウス・ゾラ・クロウサー.md` |
-| ハルティール | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_ハルティール.md` |
 | ガドール | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_ガドール.md` |
 | ネフィリム | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_ネフィリム.md` |
 | 審判ヲルヲーラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_審判ヲルヲーラ.md` |
@@ -1408,9 +1386,9 @@
 
 ## ch0067
 
-- 新規作成: 5
+- 新規作成: 0
 - 更新: 28
-- スキップ: 0
+- スキップ: 5
 
 | エンティティ | アクション | ファイル |
 |:---|:---|:---|
@@ -1434,15 +1412,10 @@
 | イヴァ＝ダスト | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_イヴァ＝ダスト.md` |
 | ディルガッハ＝リク＝ンマウグ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_ディルガッハ＝リク＝ンマウグ.md` |
 | ディルガッハ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\items\E_item_ディルガッハ.md` |
-| 歌姫 | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_歌姫.md` |
-| ボガール | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_ボガール.md` |
-| ドルメイス | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_ドルメイス.md` |
 | ロシン | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_ロシン.md` |
 | ハルハハール | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_ハルハハール.md` |
-| プリエステラ | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_プリエステラ.md` |
 | ベフォニス | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_ベフォニス.md` |
 | 魔将たち | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_魔将たち.md` |
-| イルス | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_イルス.md` |
 | アケルグリュス | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_アケルグリュス.md` |
 | 大神院 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\organizations\E_org_大神院.md` |
 | 光妖精と闇妖精 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_光妖精と闇妖精.md` |
@@ -1547,9 +1520,9 @@
 
 ## ch0071
 
-- 新規作成: 1
+- 新規作成: 0
 - 更新: 26
-- スキップ: 0
+- スキップ: 1
 
 | エンティティ | アクション | ファイル |
 |:---|:---|:---|
@@ -1571,7 +1544,6 @@
 | サイバーカラテ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_サイバーカラテ.md` |
 | サイバーカラテ道場 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\organizations\E_org_サイバーカラテ道場.md` |
 | 霊長類男性 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_霊長類男性.md` |
-| 老女 | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_老女.md` |
 | 青年 | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_青年.md` |
 | アルタネイフ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_アルタネイフ.md` |
 | サイザクタート | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_サイザクタート.md` |
@@ -1656,9 +1628,9 @@
 
 ## ch0074
 
-- 新規作成: 1
+- 新規作成: 0
 - 更新: 16
-- スキップ: 0
+- スキップ: 1
 
 | エンティティ | アクション | ファイル |
 |:---|:---|:---|
@@ -1678,7 +1650,6 @@
 | メイファーラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_メイファーラ.md` |
 | ヲルヲーラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_ヲルヲーラ.md` |
 | ソルダ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_ソルダ.md` |
-| ズタークスターク | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_ズタークスターク.md` |
 
 ## ch0075
 
@@ -1752,16 +1723,14 @@
 
 ## ch0078
 
-- 新規作成: 1
-- 更新: 6
-- スキップ: 0
+- 新規作成: 0
+- 更新: 5
+- スキップ: 2
 
 | エンティティ | アクション | ファイル |
 |:---|:---|:---|
-| アキラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_アキラ.md` |
 | カーイン | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_カーイン.md` |
 | ちびシューラ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_ちびシューラ.md` |
-| ファル | create | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\relationships\E_relation_ファル.md` |
 | サイバーカラテ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\terminology\E_term_サイバーカラテ.md` |
 | マラコーダ | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_マラコーダ.md` |
 | 道場破り | update | `C:\Users\d5dx\Downloads\Code\AllusionistLLMWiki2\wiki\entities\characters\E_char_道場破り.md` |
