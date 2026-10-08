@@ -1,0 +1,26 @@
+chapter: ch0239
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 0
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0239_ハデス_makes_精神加工_p7824]]'
+  object: '[[ME_スマホアプリの課金要素]]'
+  claim: 死の偽装という究極的な機能すら、アプリという手軽なインターフェース経由で提供される現代のゲーム的消費構造の比喩。
+  quote: アプリでもいいってよ。豚好きハデスの精神加工。一時的に死を偽装できるって話
+  paragraph: p7824
+  confidence: strong
+  quotes:
+  - quote: アプリでもいいってよ。豚好きハデスの精神加工。一時的に死を偽装できるって話
+    paragraph: p7824
+    quote_verified: false
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

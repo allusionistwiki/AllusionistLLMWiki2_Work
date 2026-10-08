@@ -1,0 +1,26 @@
+chapter: ch0235
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0235_コルセスカ_other_プレイ動画_p7707]]'
+  object: '[[ME_強制配信による意識書き換え]]'
+  claim: 第五階層全員の脳にゲームのプレイ動画を叩き込む行為は、現代のSNSや動画配信プラットフォームによるアルゴリズム的な情報強制注入と、それによる現実認識の歪曲を模している。
+  quote: 第五階層を中心とした意識圏は瞬く間に戸惑いと驚きに染め上げられた。それは動画の配信という形で第五階層に存在する全ての人々の脳に叩き込まれた『過去』である。
+  paragraph: p7707
+  confidence: strong
+  quotes:
+  - quote: 第五階層を中心とした意識圏は瞬く間に戸惑いと驚きに染め上げられた。それは動画の配信という形で第五階層に存在する全ての人々の脳に叩き込まれた『過去』である。
+    paragraph: p7707
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

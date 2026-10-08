@@ -1,0 +1,26 @@
+chapter: ch0237
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0237_セリアック＝ニア_observes_ちびニア_p7762]]'
+  object: '[[ME_分散型監視カメラシステム]]'
+  claim: 多数のちびニアによる人海戦術的な監視網は、現代の分散型監視カメラシステムやIoTセンサーネットワークの物理的・生物学的実装として機能している。
+  quote: 無数の『ちびニア』たちの情報収集は順調とは言い難いものの、人海戦術による地道な監視網は可能性を潰していく作業には向いている。
+  paragraph: p7762
+  confidence: moderate
+  quotes:
+  - quote: 無数の『ちびニア』たちの情報収集は順調とは言い難いものの、人海戦術による地道な監視網は可能性を潰していく作業には向いている。
+    paragraph: p7762
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed
