@@ -1,0 +1,26 @@
+chapter: ch0207
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0207_キノコ人_functions_as_ゴミ処理_p6936]]'
+  object: '[[ME_被差別部落の歴史的職業差別]]'
+  claim: キノコ人が「穢れ吸い」「死体喰らい」として歴史的に軽蔑され、地位向上運動が失敗してきた描写は、現実の被差別部落に対する歴史的な職業差別と社会運動の挫折を構造的に模倣している。
+  quote: 古くから種族の使命と定められていたのはゴミ処理や埋葬などの汚れ仕事で、それらを埋めた土から呪力を得る姿は多数派にとっては軽蔑の対象であった。
+  paragraph: p6936
+  confidence: strong
+  quotes:
+  - quote: 古くから種族の使命と定められていたのはゴミ処理や埋葬などの汚れ仕事で、それらを埋めた土から呪力を得る姿は多数派にとっては軽蔑の対象であった。
+    paragraph: p6936
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

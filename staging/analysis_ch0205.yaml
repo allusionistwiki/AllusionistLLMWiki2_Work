@@ -1,0 +1,26 @@
+chapter: ch0205
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0205_王殺し_appears_as_狼_p6867]]'
+  object: '[[ME_動画配信者]]'
+  claim: 王殺しは動画配信者として権力者を批判し暗殺を実行する存在であり、現代のSNSインフルエンサーや政治系YouTuberの構造を模している。
+  quote: 動画配信者にして革命請負人。『祭祀国家と専制国家を終わらせる男』とまで呼ばれた理想家で、伝説的暗殺者シェロンの弟子を自称しているという。
+  paragraph: p6867
+  confidence: strong
+  quotes:
+  - quote: 動画配信者にして革命請負人。『祭祀国家と専制国家を終わらせる男』とまで呼ばれた理想家で、伝説的暗殺者シェロンの弟子を自称しているという。
+    paragraph: p6867
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

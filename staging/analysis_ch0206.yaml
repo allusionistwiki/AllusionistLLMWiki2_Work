@@ -1,0 +1,26 @@
+chapter: ch0206
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0206_ユディーア_asks_爪の耐久度_p6903]]'
+  object: '[[ME_game_mechanics_durability]]'
+  claim: 武具の劣化を「合数」で数える描写は、MMORPGやアクションゲームにおける武器の耐久値システムをメタ的に参照している。
+  quote: 「あと十合持ったら大したもんだね。その程度にはボロボロになってるよ。やりあう予定でもあんのかい？」
+  paragraph: p6903
+  confidence: strong
+  quotes:
+  - quote: 「あと十合持ったら大したもんだね。その程度にはボロボロになってるよ。やりあう予定でもあんのかい？」
+    paragraph: p6903
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

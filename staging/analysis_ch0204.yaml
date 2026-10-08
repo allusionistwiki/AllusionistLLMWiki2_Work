@@ -1,0 +1,26 @@
+chapter: ch0204
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0204_老婆_gives_通行証_p6834]]'
+  object: '[[ME_ガチャの確定演出]]'
+  claim: 銀貨を弾いて老婆が即座に木片を投げ返す行為は、スマホゲームにおけるガチャの確定演出や即時リワードを模倣している。
+  quote: 銀貨を指先で弄び、弾く。夜の闇を裂く銀の軌跡。その先にいる腰の曲がった老婆が、外見からは想像もつかないほど俊敏に硬貨を掴み取った。
+  paragraph: p6834
+  confidence: moderate
+  quotes:
+  - quote: 銀貨を指先で弄び、弾く。夜の闇を裂く銀の軌跡。その先にいる腰の曲がった老婆が、外見からは想像もつかないほど俊敏に硬貨を掴み取った。
+    paragraph: p6834
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed
