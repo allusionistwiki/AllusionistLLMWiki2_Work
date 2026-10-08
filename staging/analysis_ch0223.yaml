@@ -1,0 +1,26 @@
+chapter: ch0223
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 0
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: parodies
+  subject: '[[E_ch0223_転活体験アプリ_defines_ウィズメモリー_p7391]]'
+  object: '[[ME_gacha_game_beta_test]]'
+  claim: 『転活体験アプリ・ウィズメモリー』のオープンベータテストとポイント還元システムは、現代のスマホゲームにおけるガチャイベントやβテスト時のインセンティブ設計を風刺している。
+  quote: 『新冥府オープン記念！ 転生活動しませんか？ 転活体験アプリ『ウィズメモリー』のオープンベータテスト開始！ テスト参加で貯まる転活ポイントは祝祭期間中、全ての登録店舗でご利用できます。』
+  paragraph: p7391
+  confidence: strong
+  quotes:
+  - quote: 『新冥府オープン記念！ 転生活動しませんか？ 転活体験アプリ『ウィズメモリー』のオープンベータテスト開始！ テスト参加で貯まる転活ポイントは祝祭期間中、全ての登録店舗でご利用できます。』
+    paragraph: p7391
+    quote_verified: false
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

@@ -1,0 +1,26 @@
+chapter: ch0221
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0221_シナモリアキラ・オリジン十二人衆_appears_報告_p7331]]'
+  object: '[[ME_迷惑系YouTuber]]'
+  claim: 全裸排泄行為で拘束された『シナモリアキラ・オリジン十二人衆』という名称と行動は、現代のSNSで問題視される迷惑系動画配信者（YouTuber）の文化をパロディ化している。
+  quote: 往来で全裸排泄行為をしようとして拘束された迷惑系動画配信者『シナモリアキラ・オリジン十二人衆』に対して本選に参加する予定のプロレーサー兄弟が不快感を表明。
+  paragraph: p7331
+  confidence: strong
+  quotes:
+  - quote: 往来で全裸排泄行為をしようとして拘束された迷惑系動画配信者『シナモリアキラ・オリジン十二人衆』に対して本選に参加する予定のプロレーサー兄弟が不快感を表明。
+    paragraph: p7331
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

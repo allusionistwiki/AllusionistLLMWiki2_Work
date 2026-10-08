@@ -1,0 +1,26 @@
+chapter: ch0215
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 0
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: parodies
+  subject: '[[E_ch0215_テキストベース・サーキット_defines_レースのルール_p7222]]'
+  object: '[[ME_narrative_mechanics]]'
+  claim: レースの勝敗条件が「音速突破禁止（音が取れている）」と「物語に記される（筆が乗っている）」というメタフィクショナルな記述条件に置換されている。
+  quote: そのレースでは音速を突破してはならない。『音が取れていない』場合は『門』のワープスピードに乗れないからだ。そのレースでは物語に記されなくてはならない。『筆が乗っていない』のであれば吹き荒れる作風を受けて飛ぶことができないからだ。
+  paragraph: p7222
+  confidence: explicit
+  quotes:
+  - quote: そのレースでは音速を突破してはならない。『音が取れていない』場合は『門』のワープスピードに乗れないからだ。そのレースでは物語に記されなくてはならない。『筆が乗っていない』のであれば吹き荒れる作風を受けて飛ぶことができないからだ。
+    paragraph: p7222
+    quote_verified: false
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

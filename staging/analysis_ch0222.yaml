@@ -1,0 +1,26 @@
+chapter: ch0222
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0222_ユディーア_observes_トランクケース_p7353]]'
+  object: '[[ME_MacGuffin]]'
+  claim: 中身が空っぽで意味不明なトランクケースは、物語の推進力となる『マクガフィン』そのものである。
+  quote: 驚くほど軽い。というか中身の存在をまるで感じない。もし空っぽだとして、どんな意味があるのかを考える。何らかの暗号。あるいは特殊な気体。呪術的な『意味』や『音』そのもの。いわゆる『純粋価値』ということもあり得るが、その場合は中身マクガフィン
+  paragraph: p7353
+  confidence: explicit
+  quotes:
+  - quote: 驚くほど軽い。というか中身の存在をまるで感じない。もし空っぽだとして、どんな意味があるのかを考える。何らかの暗号。あるいは特殊な気体。呪術的な『意味』や『音』そのもの。いわゆる『純粋価値』ということもあり得るが、その場合は中身マクガフィン
+    paragraph: p7353
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed
