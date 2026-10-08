@@ -1,0 +1,26 @@
+chapter: ch0224
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: parodies
+  subject: '[[E_ch0224_転活体験アプリ・ウィズメモリー_defines_疑似転生体験_p7410]]'
+  object: '[[ME_転職活動アプリ]]'
+  claim: 「転活体験アプリ」という名称は、現代の就職・転職支援アプリ（リクルート系サービス等）のネーミングやUIをパロディ化し、異世界転生というファンタジー要素を就労支援という現代的な社会制度に接続している。
+  quote: 転職活動を支援するアプリと間違えてしまいそうで印象が悪い。 と思ったら職業マッチング機能もついているらしい。第五階層での就労支援という目的もあるようだった。
+  paragraph: p7410
+  confidence: strong
+  quotes:
+  - quote: 転職活動を支援するアプリと間違えてしまいそうで印象が悪い。 と思ったら職業マッチング機能もついているらしい。第五階層での就労支援という目的もあるようだった。
+    paragraph: p7410
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

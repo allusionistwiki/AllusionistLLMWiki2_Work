@@ -1,0 +1,26 @@
+chapter: ch0226
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0226_少年_other_顕花族_p7450]]'
+  object: '[[ME_ガチャの天井]]'
+  claim: 隠花族が顕花族になるという夢は、低レアリティのキャラクターが高レアリティのキャラクターに昇格するガチャの天井システムや、転生オプションのメタファーとして機能している。
+  quote: 大人になったら立派な顕花族になるのが少年の夢だった。 生粋の隠花族、どこからどう見てもキノコ人である彼のそんな夢
+  paragraph: p7450
+  confidence: moderate
+  quotes:
+  - quote: 大人になったら立派な顕花族になるのが少年の夢だった。 生粋の隠花族、どこからどう見てもキノコ人である彼のそんな夢
+    paragraph: p7450
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

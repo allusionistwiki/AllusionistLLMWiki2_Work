@@ -1,0 +1,26 @@
+chapter: ch0232
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0232_シェボリズ_names_王殺し_p7651]]'
+  object: '[[ME_YouTuber_Influencer]]'
+  claim: 「王殺し」という危険な暗殺行為が「人気動画配信者」という現代のインフルエンサー文化と結びつき、暴力の娯楽化・コンテンツ化を風刺している。
+  quote: シェボリズ：『王殺し』。人気動画配信者。レースに乗じてトリシューラを狙う。
+  paragraph: p7651
+  confidence: strong
+  quotes:
+  - quote: シェボリズ：『王殺し』。人気動画配信者。レースに乗じてトリシューラを狙う。
+    paragraph: p7651
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

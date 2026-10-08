@@ -1,0 +1,26 @@
+chapter: ch0229
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0229_エリカ_remembers_兄のテロリズム_p7544]]'
+  object: '[[ME_テロリズムと家族の連座]]'
+  claim: エリカの兄がキノコ人解放を掲げテロリスト化し、その結果としてエリカ一族が村八分や私刑を受ける描写は、歴史的なテロリズムにおける家族の連座や社会的制裁を模倣している。
+  quote: 身内からそのような者を出してしまったという事実。 その家族に向けられる非難のまなざし。 村八分という言葉すら生温い私刑。
+  paragraph: p7545
+  confidence: strong
+  quotes:
+  - quote: 身内からそのような者を出してしまったという事実。 その家族に向けられる非難のまなざし。 村八分という言葉すら生温い私刑。
+    paragraph: p7545
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

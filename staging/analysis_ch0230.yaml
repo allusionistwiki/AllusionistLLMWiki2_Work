@@ -1,0 +1,26 @@
+chapter: ch0230
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0230_セリアック＝ニア_uses_ちびニア_p7590]]'
+  object: '[[ME_マルチタスク・クラウドソーシング]]'
+  claim: セリアック＝ニアが己の心身を分割・縮小して『ちびニア』として運用し、疲労を共有する様子は、現代のマルチタスク処理やクラウドソーシングによる労働力の分散・集約を模している。
+  quote: 分割・縮小した己の心身を『ちびニア』や『ニアホン』などと名付けて運用する奇妙なまじないはこの猫の取り換え子の得意技だ。
+  paragraph: p7590
+  confidence: moderate
+  quotes:
+  - quote: 分割・縮小した己の心身を『ちびニア』や『ニアホン』などと名付けて運用する奇妙なまじないはこの猫の取り換え子の得意技だ。
+    paragraph: p7590
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

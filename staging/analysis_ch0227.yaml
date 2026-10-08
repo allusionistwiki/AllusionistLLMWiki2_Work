@@ -1,0 +1,26 @@
+chapter: ch0227
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: parodies
+  subject: '[[E_ch0227_幻像広告_appears_シナモリアキラ_p7477]]'
+  object: '[[ME_スマホゲームのガチャ広告]]'
+  claim: 空を染め上げる幻像広告と「レッツ転生」の煽り文句は、現代のスマホゲームにおける過剰なガチャ・転生演出広告のパロディである。
+  quote: 無数の幻像広告が夜闇を斬り裂いて天を染め上げる。
+  paragraph: p7477
+  confidence: strong
+  quotes:
+  - quote: 無数の幻像広告が夜闇を斬り裂いて天を染め上げる。
+    paragraph: p7477
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed
