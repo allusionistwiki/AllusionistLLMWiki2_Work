@@ -1,0 +1,26 @@
+chapter: ch0184
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0184_コルセスカ_fights_リールエルバ_p6087]]'
+  object: '[[ME_figure_skating]]'
+  claim: 異世界での決闘が、フィギュアスケートの演技順や採点競技の形式を模倣し、芸術的表現の衝突として描かれている。
+  quote: 時間の前後すらあやふやなこの世界において、滑走順などあってないようなもの。全く同時に演技を開始した両者は、お互いの表現を塗りつぶすようにして自己の存在を主張していく。
+  paragraph: p6087
+  confidence: strong
+  quotes:
+  - quote: 時間の前後すらあやふやなこの世界において、滑走順などあってないようなもの。全く同時に演技を開始した両者は、お互いの表現を塗りつぶすようにして自己の存在を主張していく。
+    paragraph: p6087
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

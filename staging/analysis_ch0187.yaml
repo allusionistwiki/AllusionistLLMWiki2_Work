@@ -1,0 +1,26 @@
+chapter: ch0187
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0187_アイドル_functions_as_心を撃ち抜く存在_p6201]]'
+  object: '[[ME_idol_industry_marketing]]'
+  claim: アイドルがファン（心）を撃ち抜くというメタファーは、現代のアイドル産業におけるファン心理への介入・支配構造を射撃訓練として可視化している。
+  quote: アイドルは心を撃ち抜く。 だから生徒たちは皆、この学院で射撃の訓練を受ける。
+  paragraph: p6201
+  confidence: strong
+  quotes:
+  - quote: アイドルは心を撃ち抜く。 だから生徒たちは皆、この学院で射撃の訓練を受ける。
+    paragraph: p6201
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

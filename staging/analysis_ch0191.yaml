@@ -1,0 +1,26 @@
+chapter: ch0191
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: parodies
+  subject: '[[E_ch0191_父_reveals_正解_p6291]]'
+  object: '[[ME_聖書カインとアベル]]'
+  claim: 聖書のカインとアベルの物語を、父殺しを正解とする逆説的な神話として再構成している。
+  quote: 正解は最も素晴らしい価値を持つ父を殺す事だったのに。
+  paragraph: p6291
+  confidence: explicit
+  quotes:
+  - quote: 正解は最も素晴らしい価値を持つ父を殺す事だったのに。
+    paragraph: p6291
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

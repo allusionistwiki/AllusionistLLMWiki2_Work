@@ -1,0 +1,26 @@
+chapter: ch0193
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: alludes_to
+  subject: '[[E_ch0193_再演劇_is_made_of_アンティゴネ_p6385]]'
+  object: '[[ME_Sophocles_Antigone]]'
+  claim: 再演劇の構造はソフォクレスの悲劇『アンティゴネ』を基盤とし、神々の法（自然法）と国家の法（実定法）の対立を主題として引用している。
+  quote: この再演劇のベースとなっているのは、基幹参照世界におけるソフォクレスの悲劇『アンティゴネ』。
+  paragraph: p6385
+  confidence: explicit
+  quotes:
+  - quote: この再演劇のベースとなっているのは、基幹参照世界におけるソフォクレスの悲劇『アンティゴネ』。
+    paragraph: p6385
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

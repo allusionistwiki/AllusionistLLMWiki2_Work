@@ -1,0 +1,26 @@
+chapter: ch0189
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: alludes_to
+  subject: '[[E_ch0189_青年_confesses_宿命からの逃避_p6261]]'
+  object: '[[ME_Oedipus_Rex]]'
+  claim: 青年が父殺しと母との姦淫という宿命から逃れるために島へ逃げたという設定は、ソフォクレスの悲劇『オイディプス王』の運命論を直接的に引用している。
+  quote: この身に告げられた忌まわしい予言、父殺しと母との姦淫というおぞましい宿命は追って来れまい
+  paragraph: p6261
+  confidence: explicit
+  quotes:
+  - quote: この身に告げられた忌まわしい予言、父殺しと母との姦淫というおぞましい宿命は追って来れまい
+    paragraph: p6261
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

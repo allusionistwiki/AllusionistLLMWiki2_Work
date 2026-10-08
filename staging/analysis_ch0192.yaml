@@ -1,0 +1,26 @@
+chapter: ch0192
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: parodies
+  subject: '[[E_ch0192_トウコ_thinks_ゲーム狂いの予言_p6346]]'
+  object: '[[ME_乙女ゲームの悪役令嬢]]'
+  claim: 悪役令嬢がヒロインに嫌がらせをしても、ゲームのシナリオ通りに好感度が上がるというメタフィクショナルな期待が、現実の人間関係の冷酷さによって裏切られている。
+  quote: 嫌がらせをしようとして空回りしたり、高慢に見えて根っこの庶民らしさや人の良さが滲み出て結局ヒロインと仲良くなったり、何だかんだで王子様にも好感を持たれたりするはずじゃなかった？
+  paragraph: p6346
+  confidence: explicit
+  quotes:
+  - quote: 嫌がらせをしようとして空回りしたり、高慢に見えて根っこの庶民らしさや人の良さが滲み出て結局ヒロインと仲良くなったり、何だかんだで王子様にも好感を持たれたりするはずじゃなかった？
+    paragraph: p6346
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed
