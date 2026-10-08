@@ -1,0 +1,26 @@
+chapter: ch0194
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 0
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0194_コルセスカ_reveals_本物の末妹_p6448]]'
+  object: '[[ME_コピー文化とオリジナルの逆転]]'
+  claim: 「本物」より「コピー」が優れるという主張は、現代の複製技術・デジタル文化におけるオリジナルの権威の解体を指している。
+  quote: 過去の遺物は日々革新されていく未来の技術に及ばない。試作品より大量生産品、自然なる原典から複製された『製品』こそ文明の精髓たる叡智の結晶なのです
+  paragraph: p6448
+  confidence: strong
+  quotes:
+  - quote: 過去の遺物は日々革新されていく未来の技術に及ばない。試作品より大量生産品、自然なる原典から複製された『製品』こそ文明の精髓たる叡智の結晶なのです
+    paragraph: p6448
+    quote_verified: false
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

@@ -1,0 +1,26 @@
+chapter: ch0196
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0196_大神院_defines_普遍史_p6577]]'
+  object: '[[ME_宗教的権威による物語の固定化]]'
+  claim: 大神院が『普遍史』を紡ぎ続けるという行為は、原作の正典（Canon）を絶対視し、二次創作や解釈の多様性を排除する保守的な著作権・IP管理のメタファーである。
+  quote: 無論、唯一絶対の『普遍史』を紡ぎ続ける教皇機関』、大聖典『ファザーシステム啓示告白』の記述を正しく実現させるためです、猊下
+  paragraph: p6577
+  confidence: strong
+  quotes:
+  - quote: 無論、唯一絶対の『普遍史』を紡ぎ続ける教皇機関』、大聖典『ファザーシステム啓示告白』の記述を正しく実現させるためです、猊下
+    paragraph: p6577
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

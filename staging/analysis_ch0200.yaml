@@ -1,0 +1,28 @@
+chapter: ch0200
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0200_ユディーア_attacks_カーイン_p6730]]'
+  object: '[[ME_格ゲーのコンボ入力]]'
+  claim: ユディーアの連続攻撃は、格闘ゲームにおけるコンボ入力（先手必勝からの追撃）を模倣し、相手の防御を無視してダメージを積み上げる行為として描かれている。
+  quote: 故にこの戦いは先手必勝、ユディーアの踏み込みと貫手は狙い違わず『カーイン』の腹腔へと放たれ、致命的な一撃を浸透させる。 足りない。もっと攻め続けろ。
+    畳みかけるように手掌を壇中、追撃の手刀を肺愈、打ち降ろしの拳を神庭へ。
+  paragraph: p6730
+  confidence: moderate
+  quotes:
+  - quote: 故にこの戦いは先手必勝、ユディーアの踏み込みと貫手は狙い違わず『カーイン』の腹腔へと放たれ、致命的な一撃を浸透させる。 足りない。もっと攻め続けろ。
+      畳みかけるように手掌を壇中、追撃の手刀を肺愈、打ち降ろしの拳を神庭へ。
+    paragraph: p6730
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed
