@@ -1,0 +1,26 @@
+chapter: ch0171
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0171_少女_fears_永遠の暗闇_p5686]]'
+  object: '[[ME_スマホゲームのガチャ演出]]'
+  claim: 少年の舞いを見た瞬間に心を呪縛され、失明して永遠に幻視し続けるという現象は、ガチャ演出の過剰な刺激による依存症や、画面の光に魅了されて現実を見失う現代のデジタル中毒を象徴している。
+  quote: ひと目見た瞬間、少女は心を呪縛された。熱病にうなされ、来る日も来る日も雷光のような光景を目蓋の裏で想起するばかり。しまいには加熱した瞳は盲いて曇り、永遠の暗闇に舞い手の姿を幻視するようになった。
+  paragraph: p5686
+  confidence: moderate
+  quotes:
+  - quote: ひと目見た瞬間、少女は心を呪縛された。熱病にうなされ、来る日も来る日も雷光のような光景を目蓋の裏で想起するばかり。しまいには加熱した瞳は盲いて曇り、永遠の暗闇に舞い手の姿を幻視するようになった。
+    paragraph: p5686
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

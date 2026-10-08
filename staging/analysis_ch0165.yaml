@@ -1,0 +1,26 @@
+chapter: ch0165
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0165_ラリスキャニア_appears_影のシルエット_p5548]]'
+  object: '[[ME_ペイズリー柄の歴史]]'
+  claim: 少女の衣装であるペイズリー模様が、イギリスの都市で量産されたことに由来する名前でありながら、柄そのものは名付けより古くから存在するという記述は、文化の起源と命名のズレを指摘し、ゼオーティアにおける呪力紋様の自然発生を正当化する根拠となっている。
+  quote: イギリスの都市で量産されたことに由来するペイズリーという名前。 柄そのものが実際には名付けよりも古くから存在したのと同じように、ゼオーティアにおいてもこの複雑怪奇な模様は世界各地で自然に発生、発展を遂げてきた。
+  paragraph: p5548
+  confidence: strong
+  quotes:
+  - quote: イギリスの都市で量産されたことに由来するペイズリーという名前。 柄そのものが実際には名付けよりも古くから存在したのと同じように、ゼオーティアにおいてもこの複雑怪奇な模様は世界各地で自然に発生、発展を遂げてきた。
+    paragraph: p5548
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

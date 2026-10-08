@@ -1,0 +1,26 @@
+chapter: ch0164
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0164_ミルーニャ_says_一日マネージャー_p5527]]'
+  object: '[[ME_アイドル業界の研修制度]]'
+  claim: トップアイドルへの付き添い業務が、下位アイドルのキャリア形成における必須の通過儀礼として描かれている。
+  quote: 駆け出しアイドルが受ける定番仕事のひとつ、一日マネージャー。トップクラスのアイドルに付き添ってサポートを行うということは、その仕事ぶりを間近で観察する機会を得られるということだ。
+  paragraph: p5528
+  confidence: strong
+  quotes:
+  - quote: 駆け出しアイドルが受ける定番仕事のひとつ、一日マネージャー。トップクラスのアイドルに付き添ってサポートを行うということは、その仕事ぶりを間近で観察する機会を得られるということだ。
+    paragraph: p5528
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

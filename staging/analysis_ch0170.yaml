@@ -1,0 +1,26 @@
+chapter: ch0170
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0170_地下室の姫君_says_歌_p5651]]'
+  object: '[[ME_地下アイドルの配信]]'
+  claim: 地下室で歌い続ける姫君の姿は、閉鎖空間でファンからの反応を待ち続ける地下アイドルの配信行為のメタファーである。
+  quote: 闇に閉ざされた地下室で淀みなく上下する怨嗟の旋律。 反響する耳障りな歌声はどこまでも寂しくて、ただ希望が削ぎ落とされていく。
+  paragraph: p5651
+  confidence: strong
+  quotes:
+  - quote: 闇に閉ざされた地下室で淀みなく上下する怨嗟の旋律。 反響する耳障りな歌声はどこまでも寂しくて、ただ希望が削ぎ落とされていく。
+    paragraph: p5651
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

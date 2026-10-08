@@ -1,0 +1,26 @@
+chapter: ch0168
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0168_冷凍睡眠者_uses_朱色の夢_p5613]]'
+  object: '[[ME_スマホゲームのガチャとSNS]]'
+  claim: ユーザーがプラットフォームにデータ（バイタル、戦闘記録）を預け、その利便性と自己表現の場を得る構造は、現代のスマホゲームやSNSにおけるユーザーデータの搾取とエンゲージメントの構造と酷似している。
+  quote: せいぜい眠っている間にちょっとした夢、つまり記憶のゴミを預けるだけ。あるいは戦っている時に戦闘記録やバイタルデータを預けるだけ。
+  paragraph: p5614
+  confidence: strong
+  quotes:
+  - quote: せいぜい眠っている間にちょっとした夢、つまり記憶のゴミを預けるだけ。あるいは戦っている時に戦闘記録やバイタルデータを預けるだけ。
+    paragraph: p5614
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed
