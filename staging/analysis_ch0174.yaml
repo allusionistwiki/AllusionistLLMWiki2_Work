@@ -1,0 +1,26 @@
+chapter: ch0174
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0174_ファンたち_other_悪夢めいた感情_p5777]]'
+  object: '[[ME_ネットストーカー・過激なファン文化]]'
+  claim: リールエルバへの崇拝が、現代のアイドルを巡る過激なファン行為（コラージュ、SNSでの誹謗中傷、性的な執着）の集合体として描かれている。
+  quote: ポルノ画像にアイドルの顔を貼り付けたコラージュを拡散させる者、道行く異性に『いやらしい格好で誘っているんだろう』と怒鳴りつける者、マント一枚で糞尿を垂れ流す変質者、溜め込んだ体液を手にべっとり付けて握手会に赴く者、ＳＮＳの公式アカウントに卑猥な言葉を発する者
+  paragraph: p5777
+  confidence: explicit
+  quotes:
+  - quote: ポルノ画像にアイドルの顔を貼り付けたコラージュを拡散させる者、道行く異性に『いやらしい格好で誘っているんだろう』と怒鳴りつける者、マント一枚で糞尿を垂れ流す変質者、溜め込んだ体液を手にべっとり付けて握手会に赴く者、ＳＮＳの公式アカウントに卑猥な言葉を発する者
+    paragraph: p5777
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

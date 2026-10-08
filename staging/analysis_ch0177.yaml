@@ -1,0 +1,26 @@
+chapter: ch0177
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0177_アズーリア_observes_黒檀の民の広告_p5882]]'
+  object: '[[ME_人種的ステレオタイプと広告の記号論]]'
+  claim: 黒檀の民に対する『ワイルド』『パワフル』といった肯定的な広告イメージは、実在のスポーツ広告における人種的ステレオタイプの商業化を指喩している。
+  quote: 音楽に乗せて謳われる文句は『ワイルド』『パワフル』『野性』『力強い』などなど。
+  paragraph: p5882
+  confidence: strong
+  quotes:
+  - quote: 音楽に乗せて謳われる文句は『ワイルド』『パワフル』『野性』『力強い』などなど。
+    paragraph: p5882
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

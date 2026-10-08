@@ -1,0 +1,26 @@
+chapter: ch0178
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0178_ゼド_says_探索者とはこういうものだ_p5908]]'
+  object: '[[ME_dungeon_crawler_mechanics]]'
+  claim: ゼドの「探索者とはこういうものだ」という発言は、ダンジョン攻略ゲームにおける「敵を倒して loot を得る」という基本メカニクスを、物語内の倫理として正当化するメタファーである。
+  quote: そう睨むな、ダンジョンの宝よ。探索者とはこういうものだ。グレンデルヒもイアテムもそうだったろう？
+  paragraph: p5908
+  confidence: strong
+  quotes:
+  - quote: そう睨むな、ダンジョンの宝よ。探索者とはこういうものだ。グレンデルヒもイアテムもそうだったろう？
+    paragraph: p5908
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

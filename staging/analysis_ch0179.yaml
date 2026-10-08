@@ -1,0 +1,26 @@
+chapter: ch0179
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0179_リールエルバ_says_ランキングの要求_p5933]]'
+  object: '[[ME_スマホゲームのガチャとランキング]]'
+  claim: リールエルバがコルセスカに対し、実績を積み重ねてランキングを駆け上がるよう要求する様子は、現代のスマホゲームにおけるガチャ産キャラクターの格付けや、イベントランキングでの競争を模倣している。
+  quote: 相手をして欲しければ、相応の実績を積み重ねてランキングを駆け上がってきなさい。この第五階層のアイドルたちはみなそうしている。あなただけ特別扱いはできない
+  paragraph: p5933
+  confidence: strong
+  quotes:
+  - quote: 相手をして欲しければ、相応の実績を積み重ねてランキングを駆け上がってきなさい。この第五階層のアイドルたちはみなそうしている。あなただけ特別扱いはできない
+    paragraph: p5933
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

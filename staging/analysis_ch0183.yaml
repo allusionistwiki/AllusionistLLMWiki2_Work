@@ -1,0 +1,26 @@
+chapter: ch0183
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0183_トリシューラ_fears_ピンクウォッシュ_p6056]]'
+  object: '[[ME_pinkwashing]]'
+  claim: トリシューラが検討する「慈愛を装った攻撃の正当化」は、現代の企業や国家による「ピンクウォッシュ（性的マイノリティや社会運動の象徴を商業利用し、実態の迫害を隠蔽する行為）」のメタファーである。
+  quote: いまさら露骨なアピールをしても迫害を誤魔化すためのピンクウォッシュとしか受け取ってもらえないかも――
+  paragraph: p6056
+  confidence: explicit
+  quotes:
+  - quote: いまさら露骨なアピールをしても迫害を誤魔化すためのピンクウォッシュとしか受け取ってもらえないかも――
+    paragraph: p6056
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed
