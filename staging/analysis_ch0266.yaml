@@ -1,0 +1,26 @@
+chapter: ch0266
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: parodies
+  subject: '[[E_ch0266_コロス_appears_舞台_p8366]]'
+  object: '[[ME_ancient_greek_tragedy_chorus]]'
+  claim: 精子を擬人化した合唱隊（コロス）の登場と、その歌い方は古代ギリシャ悲劇の合唱隊の形式を模倣・戯画化している。
+  quote: 冥府を下る大勢の精子たちからなる合唱隊、白布を被り、宙吊り台に乗って登場
+  paragraph: p8366
+  confidence: strong
+  quotes:
+  - quote: 冥府を下る大勢の精子たちからなる合唱隊、白布を被り、宙吊り台に乗って登場
+    paragraph: p8366
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

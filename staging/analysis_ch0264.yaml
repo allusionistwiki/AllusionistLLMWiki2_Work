@@ -1,0 +1,26 @@
+chapter: ch0264
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0264_クリーナー_uses_転生アプリ_p8332]]'
+  object: '[[ME_スマホゲーム_アカウント引き継ぎ]]'
+  claim: 転生アプリによる魂のマッチングと肉体の占有は、現代のスマホゲームにおけるアカウント引き継ぎやデータ移行のメタファーである。
+  quote: 「なんとクリーナーは転生アプリのユーザー登録をしていたんだ。これまで使っていた占術は今の肉体の主、クリーナーの力だよ」
+  paragraph: p8332
+  confidence: strong
+  quotes:
+  - quote: 「なんとクリーナーは転生アプリのユーザー登録をしていたんだ。これまで使っていた占術は今の肉体の主、クリーナーの力だよ」
+    paragraph: p8332
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

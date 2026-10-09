@@ -1,0 +1,26 @@
+chapter: ch0267
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0267_魔導書_teaches_リーナ_p8376]]'
+  object: '[[ME_検索エンジン_アルゴリズム]]'
+  claim: 魔導書からの知識流入は、ユーザーの検索履歴や文脈に基づき最適化された情報を提示する検索アルゴリズムの挙動に似ている。
+  quote: 魔導書から流れ込む知識が多くのことをリーナに示し、善き教師となって彼女の飛翔を助けていた。それは遡りながら前進するという学びそのものだった。
+  paragraph: p8376
+  confidence: moderate
+  quotes:
+  - quote: 魔導書から流れ込む知識が多くのことをリーナに示し、善き教師となって彼女の飛翔を助けていた。それは遡りながら前進するという学びそのものだった。
+    paragraph: p8376
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

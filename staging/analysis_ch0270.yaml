@@ -1,0 +1,26 @@
+chapter: ch0270
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: parodies
+  subject: '[[E_ch0270_リーナ_says_ポニーテール眼鏡委員長触手_p8397]]'
+  object: '[[ME_萌え文化の消費と現実の不在]]'
+  claim: リーナの叫びは、二次元の萌え要素（ポニーテール、眼鏡、触手）を現実の生物として消費しようとする欲望と、それが物理的に不可能であることへの絶望を風刺している。
+  quote: ポニーとはメイクラブできない！ 子供産めない！ 眼鏡も触手もよく考えたら…萌要素とは仲良しできない？
+  paragraph: p8397
+  confidence: strong
+  quotes:
+  - quote: ポニーとはメイクラブできない！ 子供産めない！ 眼鏡も触手もよく考えたら…萌要素とは仲良しできない？
+    paragraph: p8397
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed
