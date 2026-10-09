@@ -1,0 +1,26 @@
+chapter: ch0253
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0253_運営サイド_gives_予定通り受け入れ指示_p8129]]'
+  object: '[[ME_イベント運営の隠蔽と顧客対応]]'
+  claim: 大規模な異常事態（戦闘・通信妨害）が発生しているにもかかわらず、現場の職員には『予定通り受け入れ』という通常業務の指示のみが下される状況は、現代のイベント運営やサービス業における『クレーム対応の隠蔽』や『現場への情報非開示』を模倣している。
+  quote: だが施設職員たちに対して下った指示は『予定通り選手たちを万全な態勢で受け入れてね！』という普段通りのものだけ。
+  paragraph: p8129
+  confidence: strong
+  quotes:
+  - quote: だが施設職員たちに対して下った指示は『予定通り選手たちを万全な態勢で受け入れてね！』という普段通りのものだけ。
+    paragraph: p8129
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

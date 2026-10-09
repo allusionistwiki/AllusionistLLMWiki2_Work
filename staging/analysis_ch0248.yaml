@@ -1,0 +1,26 @@
+chapter: ch0248
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0248_シナモリアキラ_uses_Doppler_p8029]]'
+  object: '[[ME_音響処理アプリ_Doppler]]'
+  claim: シナモリアキラが使用する超音波索敵呪文は、現代の音響処理アプリ『Doppler』を模倣した技術移転のメタファーである。
+  quote: メートリアンの情報にあった音響処理アプリ『Ｄｏｐｐｌｅｒ』とかいう呪文を使っているのだろう。
+  paragraph: p8029
+  confidence: explicit
+  quotes:
+  - quote: メートリアンの情報にあった音響処理アプリ『Ｄｏｐｐｌｅｒ』とかいう呪文を使っているのだろう。
+    paragraph: p8029
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

@@ -1,0 +1,26 @@
+chapter: ch0245
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0245_チリアット_uses_寿命消費_p7985]]'
+  object: '[[ME_ガチャの天井システム]]'
+  claim: チリアットの「天寿値」消費は、ガチャにおける「天井」や「石（リソース）消費」のメタファーであり、強力な能力を得るために有限のリソースを削り取るゲーム的構造を模している。
+  quote: 自らの天寿を２００巡節（１００年分）と仮定し、使用のたびに寿命が短くなっていく。
+  paragraph: p7985
+  confidence: strong
+  quotes:
+  - quote: 自らの天寿を２００巡節（１００年分）と仮定し、使用のたびに寿命が短くなっていく。
+    paragraph: p7985
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed
