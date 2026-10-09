@@ -1,0 +1,26 @@
+chapter: ch0255
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0255_ピットイン_defines_文脈の充填_p8175]]'
+  object: '[[ME_スマホゲームのガチャ演出]]'
+  claim: レースのピットインにおける『文脈の充填』は、ゲームにおけるプレイヤーの『主人公性』を強化するための演出（ガチャの確率操作やストーリー補完）に構造が一致する。
+  quote: 勝つ流れを生み出すため、選手たちはここで『自身の物語』を練り上げる。　個人としての勝利の布石。　自分こそが主人公であるという確信を現実に変えるための準備を行うのだ。
+  paragraph: p8175
+  confidence: strong
+  quotes:
+  - quote: 勝つ流れを生み出すため、選手たちはここで『自身の物語』を練り上げる。　個人としての勝利の布石。　自分こそが主人公であるという確信を現実に変えるための準備を行うのだ。
+    paragraph: p8175
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

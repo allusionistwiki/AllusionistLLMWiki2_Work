@@ -1,0 +1,26 @@
+chapter: ch0263
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0263_シャーネス_names_七つの風の主_p8318]]'
+  object: '[[ME_quantum_superposition]]'
+  claim: シャーネスが同時に複数の人生を歩む『もしも』の魔法使いであるという記述は、量子力学における重ね合わせ状態（シュレーディンガーの猫）のメタファーとして機能している。
+  quote: 同時に複数の人生を歩む魔女は、文字通り七つの顔を持つ女なのだ。
+  paragraph: p8318
+  confidence: moderate
+  quotes:
+  - quote: 同時に複数の人生を歩む魔女は、文字通り七つの顔を持つ女なのだ。
+    paragraph: p8318
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

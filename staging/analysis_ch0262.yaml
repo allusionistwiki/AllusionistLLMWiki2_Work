@@ -1,0 +1,26 @@
+chapter: ch0262
+created: '2026-10-09'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0262_クリーナー_says_斜め読みの正当化_p8315]]'
+  object: '[[ME_ネット記事の要約文化]]'
+  claim: テキストベース・サーキットの長文読解を拒否し「まとめ動画」や「斜め読み」を正当化するクリーナーの言動は、現代の長文コンテンツ消費における要約依存・速読文化を風刺している。
+  quote: 「俺も含めてモブキャラの過去なんてみんな真面目に読んでねーよ。まとめ動画で把握すりゃいいだろそんなもん。ざっと台詞だけさらっとけ」
+  paragraph: p8314
+  confidence: strong
+  quotes:
+  - quote: 「俺も含めてモブキャラの過去なんてみんな真面目に読んでねーよ。まとめ動画で把握すりゃいいだろそんなもん。ざっと台詞だけさらっとけ」
+    paragraph: p8314
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed
