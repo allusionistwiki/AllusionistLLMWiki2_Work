@@ -10,14 +10,14 @@ counts:
 items:
 - kind: claim
   predicate: analogous_to
-  subject: '[[E_ch0214_祝祭_functions_as_呪術儀式_p7212]]'
-  object: '[[ME_social_contract_and_law]]'
-  claim: 多数の参加者による合意形成が、個人の意志を超えた世界への強制力（法や社会規範）として機能する仕組みを、呪術儀式のメカニズムとして描写している。
-  quote: 複数人で行う約束や誓約は強固な縛りとなって世界全体に対する強制力となるのだ。
+  subject: '[[E_p7212_declaration]]'
+  object: '[[ME_social_contract]]'
+  claim: 祝祭期間中の禁止事項の宣言は、参加者の合意形成によって強制力を生む社会契約論的な呪術的メカニズムとして描かれている。
+  quote: 『祝祭』という『場』に大勢が参加することで、その呪術儀式は参加者全員が共同で成立させるための巨大な仕組みに変質していく。
   paragraph: p7212
   confidence: strong
   quotes:
-  - quote: 複数人で行う約束や誓約は強固な縛りとなって世界全体に対する強制力となるのだ。
+  - quote: 『祝祭』という『場』に大勢が参加することで、その呪術儀式は参加者全員が共同で成立させるための巨大な仕組みに変質していく。
     paragraph: p7212
     quote_verified: true
   proposed_by:

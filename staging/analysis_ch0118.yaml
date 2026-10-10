@@ -10,12 +10,12 @@ counts:
 items:
 - kind: claim
   predicate: analogous_to
-  subject: '[[E_ch0118_砂場_defines_可塑性のある空間_p4124]]'
-  object: '[[ME_sandbox_game_design]]'
-  claim: 「砂場（サンドボックス）」という呼称と、環境改変能力を持つ魔女による空間の定義は、プレイヤーが自由に世界を構築・改変できるサンドボックス型ゲームのメカニクスを指喩している。
+  subject: '[[E_ch0118_砂場_defines_世界槍内側の可塑性空間_p4124]]'
+  object: '[[ME_sandbox_game_mechanics]]'
+  claim: 異世界の空間構造を「砂場（サンドボックス）」と呼称し、物理法則や呪術法則が柔軟に改変可能であることを、ゲームにおけるサンドボックスモードやMOD導入環境に喩えている。
   quote: 世界槍の内側に広がる可塑性のある空間のことを、砂場と呼ぶ向きがある。
   paragraph: p4124
-  confidence: strong
+  confidence: explicit
   quotes:
   - quote: 世界槍の内側に広がる可塑性のある空間のことを、砂場と呼ぶ向きがある。
     paragraph: p4124

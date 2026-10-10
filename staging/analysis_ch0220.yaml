@@ -10,14 +10,14 @@ counts:
 items:
 - kind: claim
   predicate: analogous_to
-  subject: '[[E_ch0220_ちびニア_appears_立体幻像_p7313]]'
-  object: '[[ME_smartphone_notification_system]]'
-  claim: 多数のドローンや監視カメラからの情報を一つの端末に集約し、可愛らしい着信音で通知する仕組みは、現代のスマートフォンにおけるプッシュ通知やSNSのタイムライン機能を想起させる。
-  quote: 可愛らしい着信音。ユディーアが端末機を手に取ると、立体幻像が立ち上がる。
+  subject: '[[E_ch0220_ちびニア_functions_as_情報収集網_p7313]]'
+  object: '[[ME_smartphone_game_gacha_system]]'
+  claim: 多数の個体がリアルタイムで情報を集約する仕組みは、スマホゲームにおけるガチャ産キャラや自動巡回機能による情報収集・リソース管理のメタファーである。
+  quote: 第五階層の各地に散った沢山の『ちびニア』が入手した情報は、ユディーアが持つ『ニアホン』にリアルタイムで繋がるようになっている。
   paragraph: p7313
-  confidence: strong
+  confidence: moderate
   quotes:
-  - quote: 可愛らしい着信音。ユディーアが端末機を手に取ると、立体幻像が立ち上がる。
+  - quote: 第五階層の各地に散った沢山の『ちびニア』が入手した情報は、ユディーアが持つ『ニアホン』にリアルタイムで繋がるようになっている。
     paragraph: p7313
     quote_verified: true
   proposed_by:

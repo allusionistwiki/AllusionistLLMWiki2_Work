@@ -10,15 +10,15 @@ counts:
 items:
 - kind: claim
   predicate: analogous_to
-  subject: '[[E_ch0200_ユディーア_has_property_オルゴーの滅びの呪文_p6736]]'
-  object: '[[ME_ガチャの確定演出]]'
-  claim: ユディーアの爪が『無詠唱のオルゴーの滅びの呪文』として完成しており、理論上最強の出力を持つという記述は、ゲームにおける「確定演出」や「最強武器」の概念を、物語内の物理法則として実装したものである。
-  quote: 産み落とされたその瞬間から、ユディーアの爪は『無詠唱のオルゴーの滅びの呪文』として完成されていた。
-  paragraph: p6736
-  confidence: strong
+  subject: '[[E_ch0200_combat_start]]'
+  object: '[[ME_ghibli_battle_choreography]]'
+  claim: 狭い通路での近接戦闘と、内力による経絡破壊という描写は、宮崎駿作品における『風の谷のナウシカ』や『もののけ姫』のような、生身と超常の力が混在する激しい肉弾戦の演出を想起させる。
+  quote: 両者共に必殺の間合い。狭い通路での相対、逃れる余地は後方を除いていずれも極小。 共に内力は絶大、生半可な防御ではガードした腕越しに全身の経絡を破壊されるのが目に見えている。
+  paragraph: p6730
+  confidence: moderate
   quotes:
-  - quote: 産み落とされたその瞬間から、ユディーアの爪は『無詠唱のオルゴーの滅びの呪文』として完成されていた。
-    paragraph: p6736
+  - quote: 両者共に必殺の間合い。狭い通路での相対、逃れる余地は後方を除いていずれも極小。 共に内力は絶大、生半可な防御ではガードした腕越しに全身の経絡を破壊されるのが目に見えている。
+    paragraph: p6730
     quote_verified: true
   proposed_by:
     kind: agent

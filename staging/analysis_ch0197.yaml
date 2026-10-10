@@ -9,15 +9,15 @@ counts:
   quotes_total: 1
 items:
 - kind: claim
-  predicate: alludes_to
-  subject: '[[E_ch0197_キニス_other_セインディアの博物城_p6621]]'
-  object: '[[ME_ギリシャ悲劇_エレクトラ]]'
-  claim: 章タイトル「エレクトラには向いてない」および冒頭の「母殺しは早すぎた」という記述は、ギリシャ悲劇『エレクトラ』における母殺しの復讐譚を直接的に引用・変奏している。
-  quote: 幼いキニスに母殺しは早すぎた。 復讐譚の主人公となるには、彼女は優しすぎたのだ。
+  predicate: analogous_to
+  subject: '[[E_ch0197_秩序派の血統術師_makes_あらゆる種族_p6621]]'
+  object: '[[ME_優生学と品種改良]]'
+  claim: あらゆる種族や血統を「整え、保存し、正しく配列する」という営みは、人間を家畜や作物のように管理・改良する優生学的な品種改良や、遺伝子編集技術による設計された人間像を想起させる。
+  quote: あらゆる種族。あらゆる人種。あらゆる血統。  それらを掛け合わせ、整え、保存し、正しく配列する。
   paragraph: p6621
-  confidence: explicit
+  confidence: strong
   quotes:
-  - quote: 幼いキニスに母殺しは早すぎた。 復讐譚の主人公となるには、彼女は優しすぎたのだ。
+  - quote: あらゆる種族。あらゆる人種。あらゆる血統。  それらを掛け合わせ、整え、保存し、正しく配列する。
     paragraph: p6621
     quote_verified: true
   proposed_by:

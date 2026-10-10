@@ -11,14 +11,14 @@ items:
 - kind: claim
   predicate: parodies
   subject: '[[E_ch0202_シャルマキヒュ_appears_ユディーア_p6777]]'
-  object: '[[ME_gacha_game_omniscient_narrator]]'
-  claim: 女神の啓示を「物語の都合」や「作劇上の逃げ」としてメタ的に分析し、神託をゲーム的な誘導イベントとして矮小化している。
-  quote: 『物語の都合』とか『作劇上の逃げ』が透けて見えるくらいには今ひとつ役に立たない。
-  paragraph: p6778
-  confidence: explicit
+  object: '[[ME_greek_mythology_athena]]'
+  claim: 隻眼、槍、猫をモチーフにした耳飾りという記号は、ギリシャ神話の知恵と戦争の女神アテナ（アテネ）の象徴的アイコン（オウル＝猫、槍、兜）を意図的に模倣・変換したものである。
+  quote: 隻眼、槍、猫をモチーフにした耳飾り、力強くしなやかな女戦士とはかくあるべし、みたいな理想像。
+  paragraph: p6777
+  confidence: strong
   quotes:
-  - quote: 『物語の都合』とか『作劇上の逃げ』が透けて見えるくらいには今ひとつ役に立たない。
-    paragraph: p6778
+  - quote: 隻眼、槍、猫をモチーフにした耳飾り、力強くしなやかな女戦士とはかくあるべし、みたいな理想像。
+    paragraph: p6777
     quote_verified: true
   proposed_by:
     kind: agent

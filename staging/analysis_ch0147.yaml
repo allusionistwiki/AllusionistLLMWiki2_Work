@@ -10,15 +10,15 @@ counts:
 items:
 - kind: claim
   predicate: analogous_to
-  subject: '[[E_ch0147_聖マローズ教団_other_絶対美少女吸血姫神リールエルバ様教団_p5001]]'
-  object: '[[ME_アイドルオタク文化]]'
-  claim: 聖マローズ教団が内部崩壊し、リールエルバ個人を崇拝する『絶対美少女吸血姫神リールエルバ様教団』へと変貌する様子は、現代のアイドルオタク文化や推し活における過剰な個人崇拝と、その集団心理の滑稽さを風刺している。
-  quote: その名を、『絶対美少女吸血姫神リールエルバ様教団』という。
-  paragraph: p5002
-  confidence: strong
+  subject: '[[E_ch0147_六人の王_other_少女_p4995]]'
+  object: '[[ME_freud_oceanic_feeling]]'
+  claim: 六人の王が少女に求める『母のような温かさ』や『帰りたい子宮』は、フロイトが指摘した乳児期の全能感や母胎回帰願望のメタファーである。
+  quote: 麗しき王は少女に導きを欲した。彼女は見知らぬ母のように温かだった。
+  paragraph: p4995
+  confidence: moderate
   quotes:
-  - quote: その名を、『絶対美少女吸血姫神リールエルバ様教団』という。
-    paragraph: p5002
+  - quote: 麗しき王は少女に導きを欲した。彼女は見知らぬ母のように温かだった。
+    paragraph: p4995
     quote_verified: true
   proposed_by:
     kind: agent

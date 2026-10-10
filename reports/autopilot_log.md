@@ -4181,3 +4181,45 @@ review_status: llm_verified = LLM 自己審査による暫定承認（人間 hum
 
 
 
+## ch0118（2026-10-10）
+
+昇格: claims=0 mysteries=0 themes=0 却下=1
+
+
+
+## ch0143（2026-10-10）
+
+昇格: claims=0 mysteries=0 themes=0 却下=1
+
+
+
+## ch0147（2026-10-10）
+
+昇格: claims=0 mysteries=0 themes=0 却下=1
+
+
+
+## ch0197（2026-10-10）
+
+昇格: claims=0 mysteries=0 themes=0 却下=1
+
+
+
+## ch0200（2026-10-10）
+
+昇格: claims=0 mysteries=0 themes=0 却下=1
+
+
+
+## ch0202（2026-10-10）
+
+昇格: claims=0 mysteries=0 themes=0 却下=1
+
+
+
+## ch0220（2026-10-10）
+
+昇格: claims=0 mysteries=0 themes=0 却下=1
+
+
+

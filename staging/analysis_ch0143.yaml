@@ -10,15 +10,15 @@ counts:
 items:
 - kind: claim
   predicate: alludes_to
-  subject: '[[E_ch0143_アレッテ・イヴニル_says_マラードの醜さ_p4850]]'
-  object: '[[ME_王と物乞い_マーク・トウェイン]]'
-  claim: 「王と物乞い」という章タイトルと、王の美醜が入れ替わるという設定は、マーク・トウェインの同名小説における身分の入れ替わりとアイデンティティの崩壊を引用・変奏している。
-  quote: ４－３１　王と物乞い
-  paragraph: p4850
-  confidence: strong
+  subject: '[[E_ch0143_アレッテ・イヴニル_says_マラード_p4850]]'
+  object: '[[ME_王と物乞い]]'
+  claim: マラード（王）とルバーブ（物乞い/醜い者）の役割や美醜の逆転・対比は、マーク・トウェインの『王と物乞い』の構造を想起させる。
+  quote: 聖と俗、貴と賤の交換という欺瞞。 主従逆転の人形遊び。
+  paragraph: p4851
+  confidence: moderate
   quotes:
-  - quote: ４－３１　王と物乞い
-    paragraph: p4850
+  - quote: 聖と俗、貴と賤の交換という欺瞞。 主従逆転の人形遊び。
+    paragraph: p4851
     quote_verified: true
   proposed_by:
     kind: agent
