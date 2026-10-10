@@ -5,21 +5,21 @@ counts:
   claims: 1
   mysteries: 0
   themes: 0
-  quotes_verified: 0
+  quotes_verified: 1
   quotes_total: 1
 items:
 - kind: claim
   predicate: parodies
   subject: '[[E_ch0202_シャルマキヒュ_appears_ユディーア_p6777]]'
-  object: '[[ME_ゲームのチュートリアル]]'
-  claim: 女神の啓示が、プレイヤー（ユディーア）にとって退屈で意味のないチュートリアル演出として機能し、物語の都合を露呈させている。
-  quote: 「物語の都合」で詳しいことを言えないというのはまさしくその通り。それが『神が描いた物語』であるというだけのこと。手駒の操作と誘導。それがこの一幕が示す意味だ。
+  object: '[[ME_gacha_game_omniscient_narrator]]'
+  claim: 女神の啓示を「物語の都合」や「作劇上の逃げ」としてメタ的に分析し、神託をゲーム的な誘導イベントとして矮小化している。
+  quote: 『物語の都合』とか『作劇上の逃げ』が透けて見えるくらいには今ひとつ役に立たない。
   paragraph: p6778
-  confidence: strong
+  confidence: explicit
   quotes:
-  - quote: 「物語の都合」で詳しいことを言えないというのはまさしくその通り。それが『神が描いた物語』であるというだけのこと。手駒の操作と誘導。それがこの一幕が示す意味だ。
+  - quote: 『物語の都合』とか『作劇上の逃げ』が透けて見えるくらいには今ひとつ役に立たない。
     paragraph: p6778
-    quote_verified: false
+    quote_verified: true
   proposed_by:
     kind: agent
     id: swift-1.5-iq3_xxs

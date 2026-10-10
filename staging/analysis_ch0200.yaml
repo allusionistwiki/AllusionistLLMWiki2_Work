@@ -1,0 +1,26 @@
+chapter: ch0200
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0200_ユディーア_has_property_オルゴーの滅びの呪文_p6736]]'
+  object: '[[ME_ガチャの確定演出]]'
+  claim: ユディーアの爪が『無詠唱のオルゴーの滅びの呪文』として完成しており、理論上最強の出力を持つという記述は、ゲームにおける「確定演出」や「最強武器」の概念を、物語内の物理法則として実装したものである。
+  quote: 産み落とされたその瞬間から、ユディーアの爪は『無詠唱のオルゴーの滅びの呪文』として完成されていた。
+  paragraph: p6736
+  confidence: strong
+  quotes:
+  - quote: 産み落とされたその瞬間から、ユディーアの爪は『無詠唱のオルゴーの滅びの呪文』として完成されていた。
+    paragraph: p6736
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

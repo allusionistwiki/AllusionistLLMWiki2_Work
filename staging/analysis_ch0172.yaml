@@ -1,0 +1,26 @@
+chapter: ch0172
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0172_ゼド_says_判官贔屓_p5720]]'
+  object: '[[ME_メタフィクション的介入]]'
+  claim: 物語内のキャラクターが「回想シーンの挿入」というメタ的な演出手法を、ゲーム的なバフ効果（判官贔屓）として明示し、物語の構造自体を操作している。
+  quote: 助け舟だ。『判官贔屓』というやつさ。修行したという回想を挿入してクレイをクレイ自身の力で勝たせる――これはフェアな肩入れだろう。
+  paragraph: p5720
+  confidence: explicit
+  quotes:
+  - quote: 助け舟だ。『判官贔屓』というやつさ。修行したという回想を挿入してクレイをクレイ自身の力で勝たせる――これはフェアな肩入れだろう。
+    paragraph: p5720
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed
