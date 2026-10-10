@@ -10,15 +10,23 @@ counts:
 items:
 - kind: claim
   predicate: analogous_to
-  subject: '[[E_ch0165_ラリスキャニア_defines_握触手会_p5550]]'
-  object: '[[ME_アイドル握手会]]'
-  claim: ラリスキャニアの『握触手会』は、現実のアイドル握手会におけるファンとの物理的接触・個別対応を、暴力と支配へと変換したメタファーである。
-  quote: 個別のファンそれぞれに最適な暴力を押しつけて、満足を与え承認を徴集していく、そのありようはまさしく絶対的な君臨者。
-  paragraph: p5550
-  confidence: strong
+  subject: '[[E_ch0165_ラリスキャニア_appears_影の触手_p5548]]'
+  object: '[[ME_ペイズリー柄]]'
+  claim: ラリスキャニアの衣装である松毬模様のワンピースは、イギリスの都市で量産されたことに由来するペイズリー柄であり、その起源が名付けより古いという記述は、文化の借用と再定義の歴史を指している。
+  quote: '原生生物にも似た松毬模様のワンピースは少女にあつらえたよう
+
+    ペイズリー
+
+    にぴったりとはまっている。'
+  paragraph: p5548
+  confidence: explicit
   quotes:
-  - quote: 個別のファンそれぞれに最適な暴力を押しつけて、満足を与え承認を徴集していく、そのありようはまさしく絶対的な君臨者。
-    paragraph: p5550
+  - quote: '原生生物にも似た松毬模様のワンピースは少女にあつらえたよう
+
+      ペイズリー
+
+      にぴったりとはまっている。'
+    paragraph: p5548
     quote_verified: true
   proposed_by:
     kind: agent

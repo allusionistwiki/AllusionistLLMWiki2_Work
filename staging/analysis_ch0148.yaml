@@ -10,15 +10,15 @@ counts:
 items:
 - kind: claim
   predicate: analogous_to
-  subject: '[[E_ch0148_サイバーカラテユーザー_names_シナモリアキラ_p5047]]'
-  object: '[[ME_online_game_leaderboard]]'
-  claim: 最強を目指す者たちが特定の称号を自称し、敗北時に剥奪される仕組みは、MMOゲームのランキングシステムや称号剥奪メカニクスを模倣している。
-  quote: 最強のサイバーカラテユーザーを目指す奴らが『シナモリアキラ』を自称しているとか。負けたら名前剥奪なんだっけ？
-  paragraph: p5047
-  confidence: strong
+  subject: '[[E_ch0148_第五階層_has_property_混乱_p5038]]'
+  object: '[[ME_現代の災害対応と自警団]]'
+  claim: 異形の怪物への対処を住民の自警団や反政府勢力が担う構造は、公的権力の機能不全下で民間が防衛・救助を担う現代の災害対応や地域防衛の構造と類似している。
+  quote: このような異獣の被害が各地でひっきりなしに上がっており、住民たちが結成した自警団や『反政府勢力』がその対処に当たるという事態となっていた。
+  paragraph: p5038
+  confidence: moderate
   quotes:
-  - quote: 最強のサイバーカラテユーザーを目指す奴らが『シナモリアキラ』を自称しているとか。負けたら名前剥奪なんだっけ？
-    paragraph: p5047
+  - quote: このような異獣の被害が各地でひっきりなしに上がっており、住民たちが結成した自警団や『反政府勢力』がその対処に当たるという事態となっていた。
+    paragraph: p5038
     quote_verified: true
   proposed_by:
     kind: agent

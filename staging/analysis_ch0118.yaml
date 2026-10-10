@@ -1,0 +1,26 @@
+chapter: ch0118
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 0
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0118_世界槍_defines_砂場_p4124]]'
+  object: '[[ME_sandbox_game_design]]'
+  claim: 第五階層の物理・呪術的な柔軟性は、ゲーム開発における「サンドボックス」環境、すなわちプレイヤーが自由に改変できるオープンワールド的な空間設計のメタファーである。
+  quote: 世界槍の内側に広がる可塑性のある空間のことを、砂場と呼ぶ向きがある。
+  paragraph: p4124
+  confidence: explicit
+  quotes:
+  - quote: 世界槍の内側に広がる可塑性のある空間のことを、砂場と呼ぶ向きがある。
+    paragraph: p4124
+    quote_verified: false
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed
