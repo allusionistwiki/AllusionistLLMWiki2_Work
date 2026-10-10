@@ -1,0 +1,26 @@
+chapter: ch0246
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0246_ペラティア展_functions_as_文化的死霊術_p7996]]'
+  object: '[[ME_museum_as_ritual]]'
+  claim: 博物館の展示が単なる保存ではなく、失われた文化を蘇らせるための宗教的・政治的儀式（死霊術）として機能する構造は、現代の博物館学における「記憶の政治」や「文化の再構築」の概念と類似している。
+  quote: 『ペラティア展』は大断絶によって失われた世界の記憶を呼び覚まそうとする文化的死霊術であり、槍神教と義国によって奪われた価値を取り戻さんとする呪詛でもあった。
+  paragraph: p7996
+  confidence: strong
+  quotes:
+  - quote: 『ペラティア展』は大断絶によって失われた世界の記憶を呼び覚まそうとする文化的死霊術であり、槍神教と義国によって奪われた価値を取り戻さんとする呪詛でもあった。
+    paragraph: p7996
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

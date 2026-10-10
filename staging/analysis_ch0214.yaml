@@ -1,0 +1,26 @@
+chapter: ch0214
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0214_祝祭_functions_as_呪術儀式_p7212]]'
+  object: '[[ME_social_contract_and_law]]'
+  claim: 多数の参加者による合意形成が、個人の意志を超えた世界への強制力（法や社会規範）として機能する仕組みを、呪術儀式のメカニズムとして描写している。
+  quote: 複数人で行う約束や誓約は強固な縛りとなって世界全体に対する強制力となるのだ。
+  paragraph: p7212
+  confidence: strong
+  quotes:
+  - quote: 複数人で行う約束や誓約は強固な縛りとなって世界全体に対する強制力となるのだ。
+    paragraph: p7212
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

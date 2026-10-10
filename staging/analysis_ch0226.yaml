@@ -1,0 +1,26 @@
+chapter: ch0226
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0226_機械女王_other_転活体験アプリ_p7456]]'
+  object: '[[ME_ガチャ・VRゲーム・メタバース]]'
+  claim: 機械女王が発表した「転活体験アプリ」は、現実のVRゲームやメタバース、あるいはガチャによる一時的なキャラクター操作（アバター）を、異世界の呪術技術で再現したものである。
+  quote: なんでも、観光のために祝祭期間だけ使い魔に転生してみたいって人が多いんだそうですよ。体験コースなら一時的な憑依みたいなものだからって。
+  paragraph: p7456
+  confidence: strong
+  quotes:
+  - quote: なんでも、観光のために祝祭期間だけ使い魔に転生してみたいって人が多いんだそうですよ。体験コースなら一時的な憑依みたいなものだからって。
+    paragraph: p7456
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

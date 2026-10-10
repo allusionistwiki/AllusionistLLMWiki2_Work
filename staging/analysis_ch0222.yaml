@@ -1,0 +1,26 @@
+chapter: ch0222
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0222_地下アイドル空間_is_located_旧白骨迷宮_p7362]]'
+  object: '[[ME_地下アイドル]]'
+  claim: 冥界という死後の世界を、地下アイドルという現代のエンターテインメント産業の構造で再定義し、死者の魂を消費対象として扱う皮肉な比喩となっている。
+  quote: 足元に広がる実在する冥府である。『マレブランケ』のグラッフィアカーネことキュトスの姉妹ラプンシエルが管理するガロアンディアンの『あの世』。ガロアンディアン観光における『目玉』のひとつだ。
+  paragraph: p7362
+  confidence: strong
+  quotes:
+  - quote: 足元に広がる実在する冥府である。『マレブランケ』のグラッフィアカーネことキュトスの姉妹ラプンシエルが管理するガロアンディアンの『あの世』。ガロアンディアン観光における『目玉』のひとつだ。
+    paragraph: p7362
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

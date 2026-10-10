@@ -1,0 +1,26 @@
+chapter: ch0220
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0220_ちびニア_appears_立体幻像_p7313]]'
+  object: '[[ME_smartphone_notification_system]]'
+  claim: 多数のドローンや監視カメラからの情報を一つの端末に集約し、可愛らしい着信音で通知する仕組みは、現代のスマートフォンにおけるプッシュ通知やSNSのタイムライン機能を想起させる。
+  quote: 可愛らしい着信音。ユディーアが端末機を手に取ると、立体幻像が立ち上がる。
+  paragraph: p7313
+  confidence: strong
+  quotes:
+  - quote: 可愛らしい着信音。ユディーアが端末機を手に取ると、立体幻像が立ち上がる。
+    paragraph: p7313
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed
