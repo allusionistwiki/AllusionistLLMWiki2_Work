@@ -1,0 +1,26 @@
+chapter: ch0254
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0254_風聞_defines_情報の伝播_p8153]]'
+  object: '[[ME_マスメディアと世論操作]]'
+  claim: 風という自然現象と噂という社会的現象をアナロジーで結びつけ、メディアが世論を形成する仕組みを物理的な風の流れとして可視化している。
+  quote: 風は噂で、噂は風。 アナロジーが作用する限り、それらは限りなく近しい呪文となる。
+  paragraph: p8153
+  confidence: strong
+  quotes:
+  - quote: 風は噂で、噂は風。 アナロジーが作用する限り、それらは限りなく近しい呪文となる。
+    paragraph: p8153
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

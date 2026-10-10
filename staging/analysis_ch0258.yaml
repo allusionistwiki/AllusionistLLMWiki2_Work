@@ -1,0 +1,26 @@
+chapter: ch0258
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0258_レメス_defines_箒レース_p8242]]'
+  object: '[[ME_生物学的決定論とゲームのルール]]'
+  claim: レメスが箒レースを「精子が卵子に向かう絶対のルール」と定義し、ゲームの勝敗を生物学的な必然性や運命論に帰着させている。
+  quote: レースとは生存競争のメタファーであり、精子が卵子に向かうのと同じ絶対のルールだからね。
+  paragraph: p8242
+  confidence: strong
+  quotes:
+  - quote: レースとは生存競争のメタファーであり、精子が卵子に向かうのと同じ絶対のルールだからね。
+    paragraph: p8242
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

@@ -1,0 +1,26 @@
+chapter: ch0263
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0263_シャーネス_appears_as_もしもの魔法使い_p8318]]'
+  object: '[[ME_multiverse_theory]]'
+  claim: シャーネスが「同時に複数の人生を歩む」「七つの顔を持つ」とされる描写は、量子力学の多世界解釈やマルチバース理論における並行世界の自己の概念を擬人化したものである。
+  quote: 同時に複数の人生を歩む魔女は、文字通り七つの顔を持つ女なのだ。
+  paragraph: p8318
+  confidence: strong
+  quotes:
+  - quote: 同時に複数の人生を歩む魔女は、文字通り七つの顔を持つ女なのだ。
+    paragraph: p8318
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed
