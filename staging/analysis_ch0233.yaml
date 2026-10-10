@@ -1,0 +1,26 @@
+chapter: ch0233
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0233_ガロアンディアン_appears_as_祝祭二日目_p7659]]'
+  object: '[[ME_smartphone_photography]]'
+  claim: 魂を焼き付ける呪術的カメラが、現代のスマートフォンによる写真撮影（主観の記録化）と、その倫理的・法的規制（肖像権・プライバシー）に構造的に対応している。
+  quote: 主観より確かな記録。念写補助機能がプリセットされた携帯端末や眼鏡よりカメラ。
+  paragraph: p7659
+  confidence: strong
+  quotes:
+  - quote: 主観より確かな記録。念写補助機能がプリセットされた携帯端末や眼鏡よりカメラ。
+    paragraph: p7659
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed
