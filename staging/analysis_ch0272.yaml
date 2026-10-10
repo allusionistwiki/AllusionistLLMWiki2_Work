@@ -1,0 +1,26 @@
+chapter: ch0272
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0272_血液型防衛システム_functions_as_対抗措置_p8429]]'
+  object: '[[ME_血液型性格診断]]'
+  claim: 血液型占いという疑似科学を、戦闘能力や防御システムの照応基準として真面目に運用する点。
+  quote: 『荒っぽく大雑把だが戦闘的傾向のＢ型黄胆汁気質』の血液タイプが火力天と照応、数で処理能力を飽和させる目的の仮想使い魔群をまとめて焼き尽くした。
+  paragraph: p8429
+  confidence: strong
+  quotes:
+  - quote: 『荒っぽく大雑把だが戦闘的傾向のＢ型黄胆汁気質』の血液タイプが火力天と照応、数で処理能力を飽和させる目的の仮想使い魔群をまとめて焼き尽くした。
+    paragraph: p8429
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

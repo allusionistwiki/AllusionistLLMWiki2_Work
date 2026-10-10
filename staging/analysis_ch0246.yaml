@@ -1,0 +1,26 @@
+chapter: ch0246
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0246_ペラティア展_functions_as_文化的死霊術_p7996]]'
+  object: '[[ME_museum_as_ritual]]'
+  claim: 博物館の展示会が、単なる鑑賞ではなく、失われた文化を蘇らせるための宗教的儀礼（死霊術）として機能している構造は、現代の博物館学における「記憶の政治」や、文化財保護が持つイデオロギー的側面を暗示している。
+  quote: 博物城を運営するキュレーターたちは独自の裁量権を持つ企画者であり、祭司でもある。
+  paragraph: p7996
+  confidence: strong
+  quotes:
+  - quote: 博物城を運営するキュレーターたちは独自の裁量権を持つ企画者であり、祭司でもある。
+    paragraph: p7996
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed
