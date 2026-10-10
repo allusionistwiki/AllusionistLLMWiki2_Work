@@ -1,0 +1,27 @@
+chapter: ch0197
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0197_キニス_other_母殺し_p6621]]'
+  object: '[[ME_ギリシャ神話_エレクトラ]]'
+  claim: 章タイトル「エレクトラには向いてない」および「復讐譚の主人公となるには、彼女は優しすぎた」という記述は、母殺しを遂行する復讐譚の主人公エレクトラとの対比であり、キニスの性格がその
+    archetype に適合しないことを示す。
+  quote: 幼いキニスに母殺しは早すぎた。 復讐譚の主人公となるには、彼女は優しすぎたのだ。
+  paragraph: p6621
+  confidence: explicit
+  quotes:
+  - quote: 幼いキニスに母殺しは早すぎた。 復讐譚の主人公となるには、彼女は優しすぎたのだ。
+    paragraph: p6621
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

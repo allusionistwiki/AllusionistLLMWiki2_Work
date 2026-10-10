@@ -1,0 +1,26 @@
+chapter: ch0202
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: parodies
+  subject: '[[E_ch0202_シャルマキヒュ_says_ユディーア_p6777]]'
+  object: '[[ME_ゲームのチュートリアル]]'
+  claim: 神からの啓示が、プレイヤー（ユディーア）にとって退屈なチュートリアルやロード画面の演出として機能し、物語の都合で曖昧な情報しか与えられない構造を風刺している。
+  quote: ここで自分にできることは何も無く、ただ起きる事を受け止めるだけ。一方的に落ちてくる情報を聞き流すだけのつまらない時間。
+  paragraph: p6777
+  confidence: strong
+  quotes:
+  - quote: ここで自分にできることは何も無く、ただ起きる事を受け止めるだけ。一方的に落ちてくる情報を聞き流すだけのつまらない時間。
+    paragraph: p6777
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

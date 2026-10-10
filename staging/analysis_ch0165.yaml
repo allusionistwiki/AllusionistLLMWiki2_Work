@@ -1,0 +1,26 @@
+chapter: ch0165
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0165_ラリスキャニア_defines_握触手会_p5550]]'
+  object: '[[ME_アイドル握手会]]'
+  claim: ラリスキャニアの『握触手会』は、現実のアイドル握手会におけるファンとの物理的接触・個別対応を、暴力と支配へと変換したメタファーである。
+  quote: 個別のファンそれぞれに最適な暴力を押しつけて、満足を与え承認を徴集していく、そのありようはまさしく絶対的な君臨者。
+  paragraph: p5550
+  confidence: strong
+  quotes:
+  - quote: 個別のファンそれぞれに最適な暴力を押しつけて、満足を与え承認を徴集していく、そのありようはまさしく絶対的な君臨者。
+    paragraph: p5550
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

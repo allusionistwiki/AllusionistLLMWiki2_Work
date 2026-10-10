@@ -1,0 +1,26 @@
+chapter: ch0143
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: alludes_to
+  subject: '[[E_ch0143_アレッテ・イヴニル_says_マラードの醜さ_p4850]]'
+  object: '[[ME_ピグマリオン効果と自己肯定感の崩壊]]'
+  claim: マラードの美しさが「砂の上の塔」として否定される描写は、他者からの承認（美しさ）を唯一の支えとする自己肯定感の脆さを指している。
+  quote: 美しいという自負だけが貴方の支えで、王としての自我の基盤だったのに。けれどそれはまやかし。砂の上に作られた脆い塔に過ぎないわ。
+  paragraph: p4850
+  confidence: strong
+  quotes:
+  - quote: 美しいという自負だけが貴方の支えで、王としての自我の基盤だったのに。けれどそれはまやかし。砂の上に作られた脆い塔に過ぎないわ。
+    paragraph: p4850
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

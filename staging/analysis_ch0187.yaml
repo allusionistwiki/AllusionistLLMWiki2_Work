@@ -1,0 +1,26 @@
+chapter: ch0187
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: parodies
+  subject: '[[E_ch0187_射撃訓練_functions_as_殺しの訓練_p6202]]'
+  object: '[[ME_軍事訓練の美化]]'
+  claim: アイドルの射撃訓練が、リリカルな表現の裏で軍隊や戦士、墓場を想起させる殺しの訓練として描かれ、暴力の美学化を風刺している。
+  quote: どれだけリリカルに飾ったところでこれは殺しの訓練だ。軍隊のような鉄の臭い、戦士のような血の香り、墓場のような死の気配がそこらじゅうに漂っている。
+  paragraph: p6202
+  confidence: strong
+  quotes:
+  - quote: どれだけリリカルに飾ったところでこれは殺しの訓練だ。軍隊のような鉄の臭い、戦士のような血の香り、墓場のような死の気配がそこらじゅうに漂っている。
+    paragraph: p6202
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

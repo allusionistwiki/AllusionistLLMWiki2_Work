@@ -1,0 +1,26 @@
+chapter: ch0120
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0120_アキラ_thinks_死者としての自覚_p4219]]'
+  object: '[[ME_保険商品_赤字契約]]'
+  claim: 異世界転生を、法を遵守し利益が出せる範囲でのみ成立する市場論理（保険・契約）として捉え、前提を失った命を「違法で赤字」として処理する経済的メタファー。
+  quote: それを肯定する市場の論理――異世界転生業も、法を遵守し、利益が出せる範囲で、という但し書きを付けた上で成立している。
+  paragraph: p4219
+  confidence: strong
+  quotes:
+  - quote: それを肯定する市場の論理――異世界転生業も、法を遵守し、利益が出せる範囲で、という但し書きを付けた上で成立している。
+    paragraph: p4219
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed

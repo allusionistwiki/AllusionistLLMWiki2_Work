@@ -1,0 +1,26 @@
+chapter: ch0147
+created: '2026-10-10'
+status: proposed
+counts:
+  claims: 1
+  mysteries: 0
+  themes: 0
+  quotes_verified: 1
+  quotes_total: 1
+items:
+- kind: claim
+  predicate: analogous_to
+  subject: '[[E_ch0147_聖マローズ教団_transforms_絶対美少女吸血姫神リールエルバ様教団_p5002]]'
+  object: '[[ME_アイドルオタク]]'
+  claim: 聖マローズ教団の内部崩壊とリールエルバ崇拝への急激な変貌は、推しメンの美しさに熱狂し、教祖を神として崇めるアイドルオタクの構造を風刺している。
+  quote: 聖マローズ教団分裂後、新教団が名乗り始めた名を聞くと、誰もが聞き間違いだと考えてほぼ確実に聞き返す。そして今度は相手の頭を心配する。その名を、『絶対美少女吸血姫神リールエルバ様教団』という。
+  paragraph: p5002
+  confidence: strong
+  quotes:
+  - quote: 聖マローズ教団分裂後、新教団が名乗り始めた名を聞くと、誰もが聞き間違いだと考えてほぼ確実に聞き返す。そして今度は相手の頭を心配する。その名を、『絶対美少女吸血姫神リールエルバ様教団』という。
+    paragraph: p5002
+    quote_verified: true
+  proposed_by:
+    kind: agent
+    id: swift-1.5-iq3_xxs
+  review_status: unreviewed
